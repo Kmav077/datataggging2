@@ -1,0 +1,3720 @@
+{
+  "DIV5": {
+    "@N": "2001",
+    "@TYPE": "PART",
+    "@VOLUME": "6",
+    "@hierarchy_metadata": "{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-32/part-2001&quot;,&quot;citation&quot;:&quot;32 CFR Part 2001&quot;}",
+    "HEAD": {
+      "#text": "PART 2001\u2014CLASSIFIED NATIONAL SECURITY INFORMATION"
+    },
+    "AUTH": {
+      "HED": {
+        "#text": "Authority:"
+      },
+      "PSPACE": {
+        "#text": "Sections 5.1(a) and (b), E.O. 13526, (75 FR 707, January 5, 2010)."
+      }
+    },
+    "SOURCE": {
+      "HED": {
+        "#text": "Source:"
+      },
+      "PSPACE": {
+        "#text": "75 FR 37254, June 28, 2010, unless otherwise noted."
+      }
+    },
+    "DIV6": [
+      {
+        "@N": "A",
+        "@TYPE": "SUBPART",
+        "@hierarchy_metadata": "{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-32/part-2001/subpart-A&quot;,&quot;citation&quot;:&quot;32 CFR Part 2001 Subpart A&quot;}",
+        "HEAD": {
+          "#text": "Subpart A\u2014Scope of Part"
+        },
+        "DIV8": {
+          "@N": "2001.1",
+          "@TYPE": "SECTION",
+          "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.1\",\"citation\":\"32 CFR 2001.1\"}",
+          "HEAD": {
+            "#text": "\u00a7 2001.1 Purpose and scope."
+          },
+          "P": [
+            {
+              "I": {
+                "#text": "Classified National Security Information"
+              },
+              "#text": "(a) This part is issued under Executive Order. (E.O.) 13526,"
+            },
+            {
+              "#text": "(b) The Order provides that these directives are binding on agencies. Section 6.1(a) of the Order defines \u201cagency\u201d to mean any \u201cExecutive agency\u201d as defined in 5 U.S.C. 105; any \u201cMilitary department\u201d as defined in 5 U.S.C. 102; and any other entity within the executive branch that comes into the possession of classified information."
+            },
+            {
+              "#text": "(c) For the convenience of the user, the following table provides references between the sections contained in this part and the relevant sections of the Order."
+            }
+          ],
+          "DIV": {
+            "@width": "100%",
+            "DIV": {
+              "@class": "gpotbl_div",
+              "TABLE": {
+                "@border": "1",
+                "@cellpadding": "1",
+                "@cellspacing": "1",
+                "@class": "gpo_table",
+                "@frame": "void",
+                "@width": "100%",
+                "THEAD": {
+                  "TR": {
+                    "TH": [
+                      {
+                        "@class": "center border-top-single border-bottom-single border-right-single",
+                        "#text": "CFR section"
+                      },
+                      {
+                        "@class": "center border-top-single border-bottom-single",
+                        "#text": "Related section of E.O. 13526"
+                      }
+                    ]
+                  }
+                },
+                "TBODY": {
+                  "TR": [
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.10 Classification standards"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "1.1, 1.4"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.11 Original classification authority"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "1.3"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.12 Duration of classification"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "1.5"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.13 Classification prohibitions and limitations"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "1.7"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.14 Classification challenges"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "1.8"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.15 Classification guides"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "2.2"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.16 Fundamental classification guidance review"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "1.9"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.20 General"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "1.6"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.21 Original classification"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "1.6(a)"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.22 Derivative classification"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "2.1"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.23 Classification marking in the electronic environment"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "1.6"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.24 Additional requirements"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "1.6"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.25 Declassification markings"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "1.5, 1.6, 3.3"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.26 Automatic declassification exemption markings"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "3.3"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.30 Automatic declassification"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "3.3, 3.7"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.31 Systematic declassification review"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "3.4"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.32 Declassification guides"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "3.3, 3.7"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.33 Mandatory review for declassification"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "3.5, 3.6"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.34 Referrals"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "3.3, 3.6, 3.7"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.35 Discretionary declassification"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "3.1"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.36 Classified information in the custody of private organizations or individuals"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "none"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.37 Assistance to the Department of State"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "none"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.40 General"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "4.1"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.41 Responsibilities of holders"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "4.1"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.42 Standards for security equipment"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "4.1"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.43 Storage"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "4.1"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.44 Reciprocity of use and inspection of facilities"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "4.1"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.45 Information controls"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "4.1, 4.2"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.46 Transmission"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "4.1, 4.2"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.47 Destruction"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "4.1, 4.2"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.48 Loss, possible compromise, or unauthorized disclosure"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "4.1, 4.2"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.49 Special access programs"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "4.3"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.50 Telecommunications, automated information systems, and network security"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "4.1, 4.2"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.51 Technical security"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "4.1"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.52 Emergency authority"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "4.2"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.53 Open storage areas"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "4.1"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.54 Foreign government information"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "4.1"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.55 Foreign disclosure of classified information"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "4.1(i)(2)"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.60 Self-Inspections, General"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "5.4"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.70 Security Education and Training, General"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "5.4"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.71 Coverage"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "1.3(d), 2.1(d), 3.7(b), 4.1(b), 5.4(d)(3)"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.80 Prescribed standard forms"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "5.2(b)(7)"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.90 Agency annual reporting requirements"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "1.3(c), 5.2(b)(4), 5.4(d)(4), 5.4(d)(8)"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-right-single",
+                          "#text": "2001.91 Other agency reporting requirements"
+                        },
+                        {
+                          "@class": "left",
+                          "#text": "1.3(d), 1.7(c)(3), 1.9(d), 2.1(d), 5.5"
+                        }
+                      ]
+                    },
+                    {
+                      "TD": [
+                        {
+                          "@class": "left border-bottom-single border-right-single",
+                          "#text": "2001.92 Definitions"
+                        },
+                        {
+                          "@class": "left border-bottom-single",
+                          "#text": "6.1"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "@N": "B",
+        "@TYPE": "SUBPART",
+        "@hierarchy_metadata": "{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-32/part-2001/subpart-B&quot;,&quot;citation&quot;:&quot;32 CFR Part 2001 Subpart B&quot;}",
+        "HEAD": {
+          "#text": "Subpart B\u2014Classification"
+        },
+        "DIV8": [
+          {
+            "@N": "2001.10",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.10\",\"citation\":\"32 CFR 2001.10\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.10 Classification standards."
+            },
+            "P": {
+              "I": {
+                "#text": "Identifying or describing damage to the national security."
+              }
+            }
+          },
+          {
+            "@N": "2001.11",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.11\",\"citation\":\"32 CFR 2001.11\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.11 Original classification authority."
+            },
+            "P": [
+              {
+                "I": {
+                  "#text": "General."
+                },
+                "#text": "(a)"
+              },
+              {
+                "I": {
+                  "#text": "Requests for original classification authority."
+                },
+                "#text": "(b)"
+              },
+              {
+                "I": {
+                  "#text": "Reporting delegations of original classification authority."
+                },
+                "#text": "(c)"
+              }
+            ]
+          },
+          {
+            "@N": "2001.12",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.12\",\"citation\":\"32 CFR 2001.12\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.12 Duration of classification."
+            },
+            "P": [
+              {
+                "I": [
+                  {
+                    "#text": "Determining duration of classification for information originally classified under the Order"
+                  },
+                  {
+                    "#text": "Establishing duration of classification."
+                  }
+                ],
+                "#text": "(a)"
+              },
+              {
+                "#text": "(i) The original classification authority shall attempt to determine a date or event that is less than 10 years from the date of original classification and which coincides with the lapse of the information's national security sensitivity, and shall assign such date or event as the declassification instruction."
+              },
+              {
+                "#text": "(ii) If unable to determine a date or event of less than 10 years, the original classification authority shall ordinarily assign a declassification date that is 10 years from the date of the original classification decision."
+              },
+              {
+                "#text": "(iii) If unable to determine a date or event of 10 years, the original classification authority shall assign a declassification date not to exceed 25 years from the date of the original classification decision."
+              },
+              {
+                "I": {
+                  "#text": "Duration of classification of special categories of information."
+                },
+                "#text": "(2)"
+              },
+              {
+                "#text": "(i) If an original classification authority is classifying information that should clearly and demonstrably be expected to reveal the identity of a confidential human source or a human intelligence source, the duration shall be up to 75 years and shall be designated with the following marking, \u201c50X1-HUM;\u201d or"
+              },
+              {
+                "#text": "(ii) If an original classification authority is classifying information that should clearly and demonstrably be expected to reveal key design concepts of weapons of mass destruction, the duration shall be up to 75 years and shall be designated with the following marking, \u201c50X2-WMD.\u201d"
+              },
+              {
+                "I": {
+                  "#text": "Extending duration of classification for information classified under the Order."
+                },
+                "#text": "(b)"
+              },
+              {
+                "#text": "(1) If the date or event assigned by the original classification authority has not passed, an original classification authority with jurisdiction over the information may extend the classification duration of such information for a period not to exceed 25 years from the date of origin of the record."
+              },
+              {
+                "#text": "(2) If the date or event assigned by the original classification authority has passed, an original classification authority with jurisdiction over the information may reclassify the information in accordance with the Order and this Directive only if it meets the standards for classification under sections 1.1 and 1.5 of the Order as well as section 3.3 of the Order, if appropriate."
+              },
+              {
+                "#text": "(3) In all cases, when extending the duration of classification, the original classification authority must:"
+              },
+              {
+                "#text": "(i) Be an original classification authority with jurisdiction over the information;"
+              },
+              {
+                "#text": "(ii) Ensure that the information continues to meet the standards for classification under the Order; and"
+              },
+              {
+                "#text": "(iii) Make reasonable attempts to notify all known holders of the information."
+              },
+              {
+                "I": [
+                  {
+                    "#text": "Duration of information classified under prior orders"
+                  },
+                  {
+                    "#text": "Specific date or event."
+                  }
+                ],
+                "#text": "(c)"
+              },
+              {
+                "I": {
+                  "#text": "Indefinite duration of classification."
+                },
+                "#text": "(2)"
+              },
+              {
+                "#text": "(i) A declassification authority, as defined in section 3.1(b) of the Order, may declassify it;"
+              },
+              {
+                "#text": "(ii) An original classification authority with jurisdiction over the information may re-mark the information to establish a duration of classification of no more than 25 years from the date of origin of the document, consistent with the requirements for information originally classified under the Order, as provided in paragraph (a) of this section; or"
+              },
+              {
+                "#text": "(iii) Unless declassified earlier, such information contained in records determined to be permanently valuable shall remain classified for 25 years from the date of its origin, at which time it will be subject to section 3.3 of the Order."
+              },
+              {
+                "I": [
+                  {
+                    "#text": "Release of imagery acquired by space-based intelligence reconnaissance systems."
+                  },
+                  {
+                    "#text": "Release of Imagery Acquired by Space-Based Intelligence Reconnaissance Systems,"
+                  }
+                ],
+                "#text": "(3)"
+              }
+            ]
+          },
+          {
+            "@N": "2001.13",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.13\",\"citation\":\"32 CFR 2001.13\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.13 Classification prohibitions and limitations."
+            },
+            "P": [
+              {
+                "I": {
+                  "#text": "Declassification without proper authority."
+                },
+                "#text": "(a)"
+              },
+              {
+                "#text": "(1) If the information at issue is in records in the physical and legal custody of the National Archives and Records Administration (NARA) and has been made available to the public, the original classification authority with jurisdiction over the information shall, as part of determining whether the restoration of markings and controls is appropriate, consider whether the removal of the information from public purview will significantly mitigate the harm to national security or otherwise draw undue attention to the information at issue. Written notification, classified when appropriate under the Order, shall be made to the Archivist, which shall include a description of the record(s) at issue, the elements of information that are classified, the duration of classification, and the specific authority for continued classification. If the information at issue is more than 25 years of age and the Archivist does not agree with the decision, the information shall nonetheless be temporarily withdrawn from public access and shall be referred to the Director of ISOO for resolution in collaboration with affected parties."
+              },
+              {
+                "I": {
+                  "#text": "Reclassification after declassification and release to the public under proper authority."
+                },
+                "#text": "(b)"
+              },
+              {
+                "#text": "(1) The information must be reasonably recoverable without bringing undue attention to the information which means that:"
+              },
+              {
+                "#text": "(i) Most individual recipients or holders are known and can be contacted and all instances of the information to be reclassified will not be more widely disseminated;"
+              },
+              {
+                "#text": "(ii) If the information has been made available to the public via a means such as Government archives or reading room, consideration is given to length of time the record has been available to the public, the extent to which the record has been accessed for research, and the extent to which the record and/or classified information at issue has been copied, referenced, or publicized; and"
+              },
+              {
+                "#text": "(iii) If the information has been made available to the public via electronic means such as the internet, consideration is given as to the number of times the information was accessed, the form of access, and whether the information at issue has been copied, referenced, or publicized."
+              },
+              {
+                "#text": "(2) If the reclassification concerns a record in the physical custody of NARA and has been available for public use, reclassification requires notification to the Archivist and approval by the Director of ISOO."
+              },
+              {
+                "#text": "(3) Any recipients or holders of the reclassified information who have current security clearances shall be appropriately briefed about their continuing legal obligations and responsibilities to protect this information from unauthorized disclosure. The recipients or holders who do not have security clearances shall, to the extent practicable, be appropriately briefed about the reclassification of the information that they have had access to, their obligation not to disclose the information, and be requested to sign an acknowledgement of this briefing."
+              },
+              {
+                "#text": "(4) The reclassified information must be appropriately marked in accordance with section 2001.24(l) and safeguarded. The markings should include the authority for and the date of the reclassification action."
+              },
+              {
+                "#text": "(5) Once the reclassification action has occurred, it must be reported to the National Security Advisor and to the Director of ISOO by the agency head or senior agency official within 30 days. The notification must include details concerning paragraphs (b)(1) and (3) of this section."
+              },
+              {
+                "I": {
+                  "#text": "Classification by compilation."
+                },
+                "#text": "(c)"
+              }
+            ]
+          },
+          {
+            "@N": "2001.14",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.14\",\"citation\":\"32 CFR 2001.14\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.14 Classification challenges."
+            },
+            "P": [
+              {
+                "I": {
+                  "#text": "Challenging classification."
+                },
+                "#text": "(a)"
+              },
+              {
+                "I": {
+                  "#text": "Agency procedures."
+                },
+                "#text": "(b)"
+              },
+              {
+                "#text": "(2) Agencies shall establish a system for processing, tracking and recording formal classification challenges made by authorized holders. Agencies shall consider classification challenges separately from Freedom of Information Act or other access requests, and shall not process such challenges in turn with pending access requests."
+              },
+              {
+                "#text": "(3) The agency shall provide an initial written response to a challenge within 60 days. If the agency is unable to respond to the challenge within 60 days, the agency must acknowledge the challenge in writing, and provide a date by which the agency will respond. The acknowledgment must include a statement that if no agency response is received within 120 days, the challenger has the right to forward the challenge to the Interagency Security Classification Appeals Panel (Panel) for a decision. The challenger may also forward the challenge to the Panel if an agency has not responded to an internal appeal within 90 days of the agency's receipt of the appeal. Agency responses to those challenges it denies shall include the challenger's appeal rights to the Panel."
+              },
+              {
+                "#text": "(4) Whenever an agency receives a classification challenge to information that has been the subject of a challenge within the past two years, or that is the subject of pending litigation, the agency is not required to process the challenge beyond informing the challenger of this fact and of the challenger's appeal rights, if any."
+              },
+              {
+                "I": {
+                  "#text": "Additional considerations."
+                },
+                "#text": "(c)"
+              },
+              {
+                "#text": "(2) The classification challenge provision is not intended to prevent an authorized holder from informally questioning the classification status of particular information. Such informal inquiries should be encouraged as a means of holding down the number of formal challenges and to ensure the integrity of the classification process."
+              }
+            ]
+          },
+          {
+            "@N": "2001.15",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.15\",\"citation\":\"32 CFR 2001.15\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.15 Classification guides."
+            },
+            "P": [
+              {
+                "I": {
+                  "#text": "Preparation of classification guides."
+                },
+                "#text": "(a)"
+              },
+              {
+                "I": {
+                  "#text": "General content of classification guides."
+                },
+                "#text": "(b)"
+              },
+              {
+                "#text": "(1) Identify the subject matter of the classification guide;"
+              },
+              {
+                "#text": "(2) Identify the original classification authority by name and position, or personal identifier;"
+              },
+              {
+                "#text": "(3) Identify an agency point-of-contact or points-of-contact for questions regarding the classification guide;"
+              },
+              {
+                "#text": "(4) Provide the date of issuance or last review;"
+              },
+              {
+                "#text": "(5) State precisely the elements of information to be protected;"
+              },
+              {
+                "#text": "(6) State which classification level applies to each element of information, and, when useful, specify the elements of information that are unclassified;"
+              },
+              {
+                "#text": "(7) State, when applicable, special handling caveats;"
+              },
+              {
+                "#text": "(8) State a concise reason for classification which, at a minimum, cites the applicable classification category or categories in section 1.4 of the Order; and"
+              },
+              {
+                "#text": "(9) Prescribe a specific date or event for declassification, the marking \u201c50X1-HUM\u201d or \u201c50X2-WMD\u201d as appropriate, or one or more of the exemption codes listed in 2001.26(a)(2), provided that:"
+              },
+              {
+                "#text": "(i) The exemption has been approved by the Panel under section 3.3(j) of the Order;"
+              },
+              {
+                "#text": "(ii) The Panel is notified of the intent to take such actions for specific information in advance of approval and the information remains in active use; and"
+              },
+              {
+                "#text": "(iii) The exemption code is accompanied with a declassification date or event that has been approved by the Panel."
+              },
+              {
+                "I": {
+                  "#text": "Dissemination of classification guides."
+                },
+                "#text": "(c)"
+              },
+              {
+                "I": {
+                  "#text": "Reviewing and updating classification guides."
+                },
+                "#text": "(d)"
+              },
+              {
+                "#text": "(2) Originators of classification guides are encouraged to consult the users of guides and other subject matter experts when reviewing or updating guides. Also, users of classification guides are encouraged to notify the originator of the guide when they acquire information that suggests the need for change in the instructions contained in the guide."
+              }
+            ]
+          },
+          {
+            "@N": "2001.16",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.16\",\"citation\":\"32 CFR 2001.16\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.16 Fundamental classification guidance review."
+            },
+            "P": [
+              {
+                "I": {
+                  "#text": "Performance of fundamental classification guidance reviews."
+                },
+                "#text": "(a)"
+              },
+              {
+                "I": {
+                  "#text": "Coverage of reviews."
+                },
+                "#text": "(b)"
+              },
+              {
+                "#text": "(1) Evaluation of content."
+              },
+              {
+                "#text": "(i) Determining if the guidance conforms to current operational and technical circumstances; and"
+              },
+              {
+                "#text": "(ii) Determining if the guidance meets the standards for classification under section 1.4 of the Order and an assessment of likely damage under section 1.2 of the Order; and"
+              },
+              {
+                "#text": "(2) Evaluation of use:"
+              },
+              {
+                "#text": "(i) Determining if the dissemination and availability of the guidance is appropriate, timely, and effective; and"
+              },
+              {
+                "#text": "(ii) An examination of recent classification decisions that focuses on ensuring that classification decisions reflect the intent of the guidance as to what is classified, the appropriate level, the duration, and associated markings."
+              },
+              {
+                "I": {
+                  "#text": "Participation in reviews."
+                },
+                "#text": "(c)"
+              },
+              {
+                "I": {
+                  "#text": "Reports on results."
+                },
+                "#text": "(d)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@N": "C",
+        "@TYPE": "SUBPART",
+        "@hierarchy_metadata": "{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-32/part-2001/subpart-C&quot;,&quot;citation&quot;:&quot;32 CFR Part 2001 Subpart C&quot;}",
+        "HEAD": {
+          "#text": "Subpart C\u2014Identification and Markings"
+        },
+        "DIV8": [
+          {
+            "@N": "2001.20",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.20\",\"citation\":\"32 CFR 2001.20\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.20 General."
+            },
+            "P": {
+              "#text": "A uniform security classification system requires that standard markings or other indicia be applied to classified information. Except in extraordinary circumstances, or as approved by the Director of ISOO, the marking of classified information shall not deviate from the following prescribed formats. If markings cannot be affixed to specific classified information or materials, the originator shall provide holders or recipients of the information with written instructions for protecting the information. Markings shall be uniformly and conspicuously applied to leave no doubt about the classified status of the information, the level of protection required, and the duration of classification."
+            }
+          },
+          {
+            "@N": "2001.21",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.21\",\"citation\":\"32 CFR 2001.21\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.21 Original classification."
+            },
+            "P": [
+              {
+                "I": {
+                  "#text": "Primary markings."
+                },
+                "#text": "(a)"
+              },
+              {
+                "I": {
+                  "#text": "Classification authority."
+                },
+                "#text": "(1)"
+              },
+              {
+                "#text": "or"
+              },
+              {
+                "I": {
+                  "#text": "Agency and office of origin."
+                },
+                "#text": "(2)"
+              },
+              {
+                "I": {
+                  "#text": "Reason for classification."
+                },
+                "#text": "(3)"
+              },
+              {
+                "#text": "(i) These categories, as they appear in the Order, are as follows:"
+              },
+              {
+                "#text": "(A) Military plans, weapons systems, or operations;"
+              },
+              {
+                "#text": "(B) Foreign government information;"
+              },
+              {
+                "#text": "(C) Intelligence activities (including covert action), intelligence sources or methods, or cryptology;"
+              },
+              {
+                "#text": "(D) Foreign relations or foreign activities of the United States, including confidential sources;"
+              },
+              {
+                "#text": "(E) Scientific, technological, or economic matters relating to the national security;"
+              },
+              {
+                "#text": "(F) United States Government programs for safeguarding nuclear materials or facilities;"
+              },
+              {
+                "#text": "(G) Vulnerabilities or capabilities of systems, installations, infrastructures, projects, plans, or protection services relating to the national security; or"
+              },
+              {
+                "#text": "(H) The development, production, or use of weapons of mass destruction."
+              },
+              {
+                "#text": "(ii) An example might appear as:"
+              },
+              {
+                "I": {
+                  "#text": "Declassification instructions."
+                },
+                "#text": "(4)"
+              },
+              {
+                "#text": "(i) A date or event for declassification that corresponds to the lapse of the information's national security sensitivity, which is equal to or less than 10 years from the date of the original decision. The duration of classification would be marked as:"
+              },
+              {
+                "#text": "(ii) A date not to exceed 25 years from the date of the original decision. For example, on a document that contains information classified on October 10, 2010, apply a date up to 25 years on the \u201cDeclassify On\u201d line:"
+              },
+              {
+                "#text": "(iii) If the classified information should clearly and demonstrably be expected to reveal the identity of a confidential human source or a human intelligence source, no date or event is required and the marking \u201c50X1-HUM\u201d shall be used in the \u201cDeclassify On\u201d line; or"
+              },
+              {
+                "#text": "(iv) If the classified information should clearly and demonstrably be expected to reveal key design concepts of weapons of mass destruction, no date or event is required and the marking \u201c50X2-WMD\u201d shall be used in the \u201cDeclassify On\u201d line."
+              },
+              {
+                "I": {
+                  "#text": "Overall marking."
+                },
+                "#text": "(b)"
+              },
+              {
+                "#text": "(1) Conspicuously place the overall classification at the top and bottom of the outside of the front cover (if any), on the title page (if any), on the first page, and on the outside of the back cover (if any)."
+              },
+              {
+                "#text": "(2) For documents containing information classified at more than one level, the overall marking shall be the highest level. For example, if a document contains some information marked \u201cSecret\u201d and other information marked \u201cConfidential,\u201d the overall marking would be \u201cSecret.\u201d"
+              },
+              {
+                "#text": "(3) Each interior page of a classified document shall be marked at the top and bottom either with the highest level of classification of information contained on that page, including the designation \u201cUnclassified\u201d when it is applicable, or with the highest overall classification of the document."
+              },
+              {
+                "I": {
+                  "#text": "Portion marking."
+                },
+                "#text": "(c)"
+              },
+              {
+                "#text": "(1) To indicate the appropriate classification level, the symbols \u201c(TS)\u201d for Top Secret, \u201c(S)\u201d for Secret, and \u201c(C)\u201d for Confidential will be used."
+              },
+              {
+                "#text": "(2) Portions which do not meet the standards of the Order for classification shall be marked with \u201c(U)\u201d for Unclassified."
+              },
+              {
+                "#text": "(3) In cases where portions are segmented such as paragraphs, sub-paragraphs, bullets, and sub-bullets and the classification level is the same throughout, it is sufficient to put only one portion marking at the beginning of the main paragraph or main bullet. If there are different levels of classification among these segments, then all segments shall be portion marked separately in order to avoid over-classification of any one segment. If the information contained in a sub-paragraph or sub-bullet is a higher level of classification than its parent paragraph or parent bullet, this does not make the parent paragraph or parent bullet classified at that same level. Each portion shall reflect the classification level of that individual portion and not any other portions. At the same time, any portion, no matter what its status, is still capable of determining the overall classification of the document."
+              },
+              {
+                "I": {
+                  "#text": "Dissemination control and handling markings."
+                },
+                "#text": "(d)"
+              },
+              {
+                "I": {
+                  "#text": "Date of origin of document."
+                },
+                "#text": "(e)"
+              }
+            ],
+            "EXTRACT": [
+              {
+                "FP-1": {
+                  "#text": "Classified By: David Smith, Chief, Division 5"
+                }
+              },
+              {
+                "FP-1": {
+                  "#text": "Classified By: ID#IMNO1"
+                }
+              },
+              {
+                "FP-1": {
+                  "#text": "Classified By: David Smith, Chief, Division 5, Department of Good Works, Office of Administration."
+                }
+              },
+              {
+                "FP-1": {
+                  "#text": "Classified By: David Smith, Chief, Division 5, Department of Good Works, Office of Administration Reason: 1.4(g)"
+                }
+              },
+              {
+                "FP-1": [
+                  {
+                    "#text": "Classified By: David Smith, Chief, Division 5, Department of Good Works, Office of Administration"
+                  },
+                  {
+                    "#text": "Reason: 1.4(g)"
+                  },
+                  {
+                    "#text": "Declassify On: 20201014 or"
+                  },
+                  {
+                    "#text": "Declassify On: Completion of Operation"
+                  }
+                ]
+              },
+              {
+                "FP-1": [
+                  {
+                    "#text": "Classified By: David Smith, Chief, Division 5, Department of Good Works, Office of Administration"
+                  },
+                  {
+                    "#text": "Reason: 1.4(g)"
+                  },
+                  {
+                    "#text": "Declassify On: 20351010"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "@N": "2001.22",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.22\",\"citation\":\"32 CFR 2001.22\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.22 Derivative classification."
+            },
+            "P": [
+              {
+                "I": {
+                  "#text": "General."
+                },
+                "#text": "(a)"
+              },
+              {
+                "I": {
+                  "#text": "Identity of persons who apply derivative classification markings."
+                },
+                "#text": "(b)"
+              },
+              {
+                "I": {
+                  "#text": "Source of derivative classification."
+                },
+                "#text": "(c)"
+              },
+              {
+                "#text": "(i) When a document is classified derivatively on the basis of more than one source document or classification guide, the \u201cDerived From\u201d line shall appear as:"
+              },
+              {
+                "#text": "(ii) The derivative classifier shall include a listing of the source materials on, or attached to, each derivatively classified document."
+              },
+              {
+                "#text": "(2) A document derivatively classified on the basis of a source document that is itself marked \u201cMultiple Sources\u201d shall cite the source document on its \u201cDerived From\u201d line rather than the term \u201cMultiple Sources.\u201d An example might appear as:"
+              },
+              {
+                "I": {
+                  "#text": "Reason for classification."
+                },
+                "#text": "(d)"
+              },
+              {
+                "I": {
+                  "#text": "Declassification instructions."
+                },
+                "#text": "(e)"
+              },
+              {
+                "#text": "(2) When a document is classified derivatively on the basis of more than one source document or more than one element of a classification guide, the \u201cDeclassify On\u201d line shall reflect the longest duration of any of its sources."
+              },
+              {
+                "#text": "(3) When a document is classified derivatively either from a source document(s) or a classification guide that contains one of the following declassification instructions, \u201cOriginating Agency's Determination Required,\u201d \u201cOADR,\u201d or \u201cManual Review,\u201d \u201cMR,\u201d or any of the exemption markings X1, X2, X3, X4, X5, X6, X7, and X8, the derivative classifier shall calculate a date that is 25 years from the date of the source document when determining a derivative document's date or event to be placed in the \u201cDeclassify On\u201d line."
+              },
+              {
+                "I": {
+                  "#text": "\u201d"
+                },
+                "#text": "(i) If a document is marked with the declassification instructions \u201cDCI Only\u201d or \u201cDNI Only\u201d and does not contain information described in E.O. 12951, \u201cRelease of Imagery Acquired by Space-Based National Intelligence Reconnaissance Systems,"
+              },
+              {
+                "#text": "(ii) If a document is marked with \u201cDCI Only\u201d or \u201cDNI Only\u201d and the information is subject to E.O. 12951, the derivative classifier shall use a date or event as prescribed by the Director of National Intelligence."
+              },
+              {
+                "#text": "(4) When determining the most restrictive declassification instruction among multiple source documents, adhere to the following hierarchy for determining the declassification instructions for the \u201cDeclassify On\u201d line:"
+              },
+              {
+                "#text": "(i) 50X1-HUM or 50X2-WMD, or an ISOO-approved designator reflecting the Panel approval for classification beyond 50 years in accordance with section 3.3(h)(2) of the Order;"
+              },
+              {
+                "#text": "(ii) 25X1 through 25X9, with a date or event;"
+              },
+              {
+                "#text": "(iii) A specific declassification date or event within 25 years;"
+              },
+              {
+                "#text": "(iv) Absent guidance from an original classification authority with jurisdiction over the information, a calculated 25-year date from the date of the source document."
+              },
+              {
+                "#text": "(5) When declassification dates are displayed numerically, the following format shall be used: YYYYMMDD."
+              },
+              {
+                "I": {
+                  "#text": "Overall marking."
+                },
+                "#text": "(f)"
+              },
+              {
+                "I": {
+                  "#text": "Portion marking."
+                },
+                "#text": "(g)"
+              },
+              {
+                "I": {
+                  "#text": "Dissemination control and handling markings."
+                },
+                "#text": "(h)"
+              },
+              {
+                "I": {
+                  "#text": "Date of origin of document."
+                },
+                "#text": "(i)"
+              }
+            ],
+            "EXTRACT": [
+              {
+                "FP-1": [
+                  {
+                    "#text": "Classified By: Peggy Jones, Lead Analyst, Research and Analysis Division or"
+                  },
+                  {
+                    "#text": "Classified By: ID # IMN01"
+                  }
+                ]
+              },
+              {
+                "FP-1": [
+                  {
+                    "#text": "Derived From: Memo, \u201cFunding Problems,\u201d October 20, 2008, Office of Administration, Department of Good Works or"
+                  },
+                  {
+                    "#text": "Derived From: CG No. 1, Department of Good Works, dated October 20, 2008"
+                  }
+                ]
+              },
+              {
+                "FP-1": {
+                  "#text": "Derived From: Multiple Sources"
+                }
+              },
+              {
+                "FP-1": {
+                  "#text": "Derived From: Report entitled, \u201cNew Weapons,\u201d dated October 20, 2009, Department of Good Works, Office of Administration"
+                }
+              }
+            ]
+          },
+          {
+            "@N": "2001.23",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.23\",\"citation\":\"32 CFR 2001.23\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.23 Classification marking in the electronic environment."
+            },
+            "P": [
+              {
+                "I": {
+                  "#text": "General."
+                },
+                "#text": "(a)"
+              },
+              {
+                "#text": "(1) Subject to all requirements of the Order."
+              },
+              {
+                "#text": "(2) Marked with proper classification markings to the extent that such marking is practical, including portion marking, overall classification, \u201cClassified By,\u201d \u201cDerived From,\u201d \u201cReason\u201d for classification (originally classified information only), and \u201cDeclassify On.\u201d"
+              },
+              {
+                "I": {
+                  "#text": "e.g.,"
+                },
+                "#text": "(3) Marked with proper classification markings when appearing in an electronic output ("
+              },
+              {
+                "#text": "(4) Marked in accordance with derivative classification procedures, maintaining traceability of classification decisions to the original classification authority. In cases where classified information in an electronic environment cannot be marked in this manner, a warning shall be applied to alert users that the information may not be used as a source for derivative classification and providing a point of contact and instructions for users to receive further guidance on the use and classification of the information."
+              },
+              {
+                "I": {
+                  "#text": "e.g.,"
+                },
+                "#text": "(5) Prohibited from use as source of derivative classification if it is dynamic in nature ("
+              },
+              {
+                "I": {
+                  "#text": "Markings on classified e-mail messages."
+                },
+                "#text": "(b)"
+              },
+              {
+                "I": {
+                  "#text": "i.e.,"
+                },
+                "#text": "(2) Classified e-mail shall be portion marked. Each portion shall be marked to reflect the highest level of information contained in that portion. A text portion containing a uniform resource locator (URL) or reference ("
+              },
+              {
+                "#text": "(3) A classified signature block shall be portion marked to reflect the highest classification level markings of the information contained in the signature block itself."
+              },
+              {
+                "#text": "(4) Subject lines shall be portion marked to reflect the sensitivity of the information in the subject line itself and shall not reflect any classification markings for the e-mail content or attachments. Subject lines and titles shall be portion marked before the subject or title."
+              },
+              {
+                "#text": "(5) For a classified e-mail, the classification authority block shall be placed after the signature block, but before the overall classification marking string at the end of the e-mail. These blocks may appear as single linear text strings instead of the traditional appearance of three lines of text."
+              },
+              {
+                "#text": "(6) When forwarding or replying to an e-mail, individuals shall ensure that, in addition to the markings required for the content of the reply or forward e-mail itself, the markings shall reflect the overall classification and declassification instructions for the entire string of e-mails and attachments. This will include any newly drafted material, material received from previous senders, and any attachments."
+              },
+              {
+                "I": {
+                  "#text": "Marking Web pages with classified content."
+                },
+                "#text": "(c)"
+              },
+              {
+                "#text": "(2) The overall classification marking string for every web page shall reflect the overall classification markings (and any dissemination control or handling markings) for the information on that page. Linear text appearing on both the top and bottom of the page is acceptable."
+              },
+              {
+                "#text": "(3) If any graphical representation is utilized, a text equivalent of the overall classification marking string shall be included in the hypertext statement and page metadata. This will enable users without graphic display to be aware of the classification level of the page and allows for the use of text translators."
+              },
+              {
+                "#text": "(4) Classified Web pages shall be portion marked. Each portion shall be marked to reflect the highest level of information contained in that portion. A portion containing a URL or reference to another document shall be portion marked based on the classification of the content of the URL itself, even if the content to which it points reflects a higher classification marking."
+              },
+              {
+                "#text": "(5) Classified Web pages shall include the classification authority block on either the top or bottom of the page. These blocks may appear as single linear text strings instead of the traditional appearance of three lines of text."
+              },
+              {
+                "#text": "(6) Electronic media files such as video, audio, images, or slides shall carry the overall classification and classification authority block, unless the addition of such information would render them inoperable. In such cases, another procedure shall be used to ensure recipients are aware of the classification status of the information and the declassification instructions."
+              },
+              {
+                "I": {
+                  "#text": "Marking classified URLs."
+                },
+                "#text": "(d)"
+              },
+              {
+                "I": {
+                  "#text": "Marking classified dynamic documents and relational databases."
+                },
+                "#text": "(e)"
+              },
+              {
+                "#text": "(2) If there is a mechanism for determining the actual classification markings for dynamic documents, the appropriate classification markings shall be applied to and displayed on the document. If such a mechanism does not exist, the default should be the highest level of information in the database and a warning shall be applied at the top of each page of the document. Such content shall not be used as a basis for derivative classification. An example of such an applied warning may appear as:"
+              },
+              {
+                "#text": "(3) This will alert the users of the information that there may be elements of information that may be either unclassified or classified at a lower level than the highest possible classification of the information returned. Users shall be encouraged to make further inquiries concerning the status of individual elements in order to avoid unnecessary classification and/or impediments to information sharing. Resources such as classification guides and points of contact shall be established to assist with these inquiries."
+              },
+              {
+                "#text": "(4) Users developing a document based on query results from a database must properly mark the document in accordance with \u00a7 2001.22. If there is doubt about the correct markings, users should contact the database originating agency for guidance."
+              },
+              {
+                "I": {
+                  "#text": "Marking classified bulletin board postings and blogs."
+                },
+                "#text": "(f)"
+              },
+              {
+                "#text": "(2) The overall classification marking string for every bulletin board or blog shall reflect the overall classification markings for the highest level of information allowed in that space. Linear text appearing on both the top and bottom of the page is acceptable."
+              },
+              {
+                "#text": "(3) Subject lines of bulletin board postings, blog entries, or comments shall be portion marked to reflect the sensitivity of the information in the subject line itself, not the content of the post."
+              },
+              {
+                "#text": "(4) The overall classification marking string for the bulletin board posting, blog entry, or comment shall reflect the classification markings for the subject line, the text of the posting, and any other information in the posting. These strings shall be entered manually or utilizing an electronic classification tool in the first line of text and at the end of the body of the posting. These strings may appear as single linear text."
+              },
+              {
+                "#text": "(5) Bulletin board postings, blog entries, or comments shall be portion marked. Each portion shall be marked to reflect the highest level of information contained in that portion."
+              },
+              {
+                "I": {
+                  "#text": "Marking classified wikis."
+                },
+                "#text": "(g)"
+              },
+              {
+                "#text": "(2) When users modify existing entries which alter the classification level of the content or add new content, they shall change the required markings to reflect the classification markings for the resulting information. Systems shall provide a means to log the identity of each user, the changes made, and the time and date of each change."
+              },
+              {
+                "#text": "(3) Wiki articles and entries shall be portion marked. Each portion shall be marked to reflect the highest level of information contained in that portion."
+              },
+              {
+                "I": {
+                  "#text": "Instant messaging, chat, and chat rooms."
+                },
+                "#text": "(h)"
+              },
+              {
+                "#text": "(2) Chat rooms shall display system-high overall classification markings and shall contain instructions informing users that the information may not be used as a source for derivative classification unless it is portion marked, contains an overall classification marking, and a classification authority block."
+              },
+              {
+                "I": {
+                  "#text": "Attached files."
+                },
+                "#text": "(i)"
+              },
+              {
+                "I": {
+                  "#text": "Reserved."
+                },
+                "#text": "(ii)"
+              }
+            ],
+            "EXTRACT": [
+              {
+                "FP-1": [
+                  {
+                    "I": {
+                      "#text": "http://www.center.xyz/SECRET/filename_(S).html"
+                    }
+                  },
+                  {
+                    "I": {
+                      "#text": "http://www.center.xyz/filename2_(TS).html"
+                    }
+                  },
+                  {
+                    "I": {
+                      "#text": "http://www.center.xyz/filename_(TS//NF).html"
+                    }
+                  }
+                ]
+              },
+              {
+                "P": {
+                  "#text": "This content is classified at the [insert system-high classification level] level and may contain elements of information that are unclassified or classified at a lower level than the overall classification displayed. This content may not be used as a source of derivative classification; refer instead to the pertinent classification guide(s)."
+                }
+              }
+            ]
+          },
+          {
+            "@N": "2001.24",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.24\",\"citation\":\"32 CFR 2001.24\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.24 Additional requirements."
+            },
+            "P": [
+              {
+                "I": {
+                  "#text": "Marking prohibitions."
+                },
+                "#text": "(a)"
+              },
+              {
+                "I": {
+                  "#text": "Transmittal documents."
+                },
+                "#text": "(b)"
+              },
+              {
+                "I": [
+                  {
+                    "#text": "Foreign government information."
+                  },
+                  {
+                    "#text": "e.g.,"
+                  },
+                  {
+                    "#text": "e.g.,"
+                  }
+                ],
+                "#text": "(c)"
+              },
+              {
+                "I": {
+                  "#text": "Working papers."
+                },
+                "#text": "(d)"
+              },
+              {
+                "#text": "(1) Released by the originator outside the originating activity;"
+              },
+              {
+                "#text": "(2) Retained more than 180 days from the date of origin; or"
+              },
+              {
+                "#text": "(3) Filed permanently."
+              },
+              {
+                "I": {
+                  "#text": "Other material."
+                },
+                "#text": "(e)"
+              },
+              {
+                "I": {
+                  "#text": "Unmarked materials."
+                },
+                "#text": "(f)"
+              },
+              {
+                "I": {
+                  "#text": "Classification by compilation/aggregation."
+                },
+                "#text": "(g)"
+              },
+              {
+                "I": [
+                  {
+                    "#text": "Commingling of Restricted Data (RD) and Formerly Restricted Data (FRD) with information classified under the Order."
+                  },
+                  {
+                    "#text": "Nuclear Classification and Declassification,"
+                  }
+                ],
+                "#text": "(h)"
+              },
+              {
+                "#text": "(2) Automatic declassification of documents containing RD or FRD is prohibited. Documents marked as containing RD or FRD are excluded from the automatic declassification provisions of the Order until the RD or FRD designation is properly removed by the Department of Energy. When the Department of Energy determines that an RD or FRD designation may be removed, any remaining information classified under the Order must be referred to the appropriate agency in accordance with the declassification provisions of the Order and this Directive."
+              },
+              {
+                "#text": "(3) For commingled documents, the \u201cDeclassify On\u201d line required by the Order and this Directive shall not include a declassification date or event and shall instead be annotated with \u201cNot Applicable (or N/A) to RD/FRD portions\u201d and \u201cSee source list for NSI portions.\u201d The source list, as described in \u00a7 2001.22(c)(1)(ii), shall include the declassification instruction for each of the source documents classified under the Order and shall not appear on the front page of the document."
+              },
+              {
+                "#text": "(4) If an RD or FRD portion is extracted for use in a new document, the requirements of 10 CFR part 1045 must be followed."
+              },
+              {
+                "#text": "(5) If a portion classified under the Order is extracted for use in a new document, the requirements of the Order and this Directive must be followed. The declassification date for the extracted portion shall be determined by using the source list required by \u00a7 2001.22(c)(1)(ii), the pertinent classification guide, or consultation with the original classification authority with jurisdiction for the information. However, if a commingled document is not portion marked, it shall not be used as a source for a derivatively classified document."
+              },
+              {
+                "#text": "(6) If a commingled document is not portion marked based on appropriate authority, annotating the source list with the declassification instructions and including the \u201cDeclassify on\u201d line in accordance with paragraph (h)(3) of this section are not required. The lack of declassification instructions does not eliminate the requirement to process commingled documents for declassification in accordance with the Order, this Directive, the Atomic Energy Act, or 10 CFR part 1045 when they are requested under statute or the Order."
+              },
+              {
+                "I": {
+                  "#text": "Transclassified Foreign Nuclear Information (TFNI)."
+                },
+                "#text": "(i)"
+              },
+              {
+                "#text": "(2) When Restricted Data information is transclassified and is safeguarded as \u201cNational Security Information,\u201d it shall be handled, protected, and classified in conformity with the provisions of the Order and this Directive. Such information shall be labeled as \u201cTFNI\u201d and with any additional identifiers prescribed by the Department of Energy. The label \u201cTFNI\u201d shall be included on documents to indicate the information's transclassification from the Restricted Data category and its declassification process governed by the Secretary of Energy under the Atomic Energy Act."
+              },
+              {
+                "#text": "(3) Automatic declassification of documents containing TFNI is prohibited. Documents marked as containing TFNI are excluded from the automatic declassification provisions of the Order until the TFNI designation is properly removed by the Department of Energy. When the Department of Energy determines that a TFNI designation may be removed, any remaining information classified under the Order must be referred to the appropriate agency in accordance with the declassification provisions of the Order and this Directive."
+              },
+              {
+                "I": {
+                  "#text": "Approved dissemination control and handling markings."
+                },
+                "#text": "(j)"
+              },
+              {
+                "#text": "(2) Only those external dissemination control and handling markings approved by ISOO or, with respect to the Intelligence Community by the Director of National Intelligence for intelligence and intelligence-related information, may be used by agencies to control and handle the dissemination of classified information pursuant to agency regulations and to policy directives and guidelines issued under section 5.4(d)(2) and section 6.2(b) of the Order. Such approved markings shall be uniform and binding on all agencies and must be available in a central registry."
+              },
+              {
+                "#text": "(3) If used, the dissemination control and handling markings will appear at the top and bottom of each page after the level of classification."
+              },
+              {
+                "I": {
+                  "#text": "Portion marking waivers."
+                },
+                "#text": "(k)"
+              },
+              {
+                "#text": "(2) Any approved portion marking waiver will be temporary with specific expiration dates."
+              },
+              {
+                "#text": "(3) Requests for portion marking waivers from elements of the Intelligence Community (to include pertinent elements of the Department of Defense) should include a statement of support from the Director of National Intelligence or his or her designee. Requests for portion marking waivers from elements of the Department of Defense (to include pertinent elements of the Intelligence Community) should include a statement of support from the Secretary of Defense or his or her designee. Requests for portion marking waivers from elements of the Department of Homeland Security should include a statement of support from the Secretary of Homeland Security or his or her designee."
+              },
+              {
+                "#text": "(4) A document not portion marked, based on an ISOO-approved waiver, must contain a warning statement that it may not be used as a source for derivative classification."
+              },
+              {
+                "#text": "(5) If a classified document that is not portion marked, based on an ISOO-approved waiver, is transmitted outside the originating organization, the document must be portion marked unless otherwise explicitly provided in the waiver approval."
+              },
+              {
+                "I": {
+                  "#text": "Marking information that has been reclassified."
+                },
+                "#text": "(l)"
+              },
+              {
+                "#text": "(1) When taking this action, an original classification authority must include the following markings on the information:"
+              },
+              {
+                "#text": "(i) The level of classification;"
+              },
+              {
+                "#text": "(ii) The identity, by name and position, or by personal identifier of the original classification authority;"
+              },
+              {
+                "#text": "(iii) Declassification instructions;"
+              },
+              {
+                "#text": "(iv) A concise reason for classification, including reference to the applicable classification category from section 1.4 of the Order; and"
+              },
+              {
+                "#text": "(v) The date the reclassification action was taken."
+              },
+              {
+                "#text": "(2) The original classification authority shall notify all known authorized holders of this action."
+              },
+              {
+                "I": {
+                  "#text": "Marking of electronic storage media."
+                },
+                "#text": "(m)"
+              }
+            ],
+            "EXTRACT": {
+              "FP-1": [
+                {
+                  "#text": "Unclassified When Classified Enclosure Removed or"
+                },
+                {
+                  "#text": "Upon Removal of Attachments, This Document is (Classification Level)"
+                }
+              ]
+            }
+          },
+          {
+            "@N": "2001.25",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.25\",\"citation\":\"32 CFR 2001.25\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.25 Declassification markings."
+            },
+            "P": [
+              {
+                "I": {
+                  "#text": "General."
+                },
+                "#text": "(a)"
+              },
+              {
+                "#text": "(b) The following markings shall be applied to records, or copies of records, regardless of media:"
+              },
+              {
+                "#text": "(1) The word, \u201cDeclassified;\u201d"
+              },
+              {
+                "#text": "(2) The identity of the declassification authority, by name and position, or by personal identifier, or the title and date of the declassification guide. If the identity of the declassification authority must be protected, a personal identifier may be used or the information may be retained in agency files."
+              },
+              {
+                "#text": "(3) The date of declassification; and"
+              },
+              {
+                "#text": "(4) The overall classification markings that appear on the cover page or first page shall be lined with an \u201cX\u201d or straight line. An example might appear as:"
+              }
+            ],
+            "EXTRACT": {
+              "FP-1": [
+                {
+                  "E": {
+                    "@T": "0511",
+                    "#text": "SECRET"
+                  }
+                },
+                {
+                  "#text": "Declassified by David Smith, Chief, Division 5, August 17, 2008"
+                }
+              ]
+            }
+          },
+          {
+            "@N": "2001.26",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.26\",\"citation\":\"32 CFR 2001.26\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.26 Automatic declassification exemption markings."
+            },
+            "P": [
+              {
+                "I": {
+                  "#text": "Marking information exempted from automatic declassification at 25 years."
+                },
+                "#text": "(a)"
+              },
+              {
+                "#text": "(2) The pertinent exemptions, using the language of section 3.3(b) of the Order, are:"
+              },
+              {
+                "#text": "(3) The pertinent portion of the marking would appear as:"
+              },
+              {
+                "#text": "(4) Documents should not be marked with a \u201c25X\u201d marking until the agency has been informed that the Panel concurs with the proposed exemption."
+              },
+              {
+                "#text": "(5) Agencies need not apply a \u201c25X\u201d marking to individual documents contained in a file series exempted from automatic declassification under section 3.3(c) of the Order until the individual document is removed from the file and may only apply such a marking as approved by the Panel under section 3.3(j) of the Order."
+              },
+              {
+                "#text": "(6) Information containing foreign government information will be marked with a date in the \u201cDeclassify On\u201d line that is no more than 25 years from the date of the document unless the originating agency has applied for and received Panel approval to exempt foreign government information from declassification at 25 years. Upon receipt of Panel approval, the agency may use either the 25X6 or 25X9 exemption markings, as appropriate, in the \u201cDeclassify On\u201d followed by a date that has also been approved by the Panel. An example might appear as: 25X6, 20600129, or 25X9, 20600627. The marking \u201csubject to treaty or international agreement\u201d is not to be used at any time."
+              },
+              {
+                "I": {
+                  "#text": "Marking information exempted from automatic declassification at 50 years."
+                },
+                "#text": "(b)"
+              },
+              {
+                "#text": "(1) When the information clearly and demonstrably could be expected to reveal the identity of a confidential human source or a human intelligence source, the marking shall be \u201c50X1-HUM.\u201d"
+              },
+              {
+                "#text": "(2) When the information clearly and demonstrably could reveal key design concepts of weapons of mass destruction, the marking shall be \u201c50X2-WMD.\u201d"
+              },
+              {
+                "#text": "(3) In extraordinary cases in which the Panel has approved an exemption from declassification at 50 years under section 3.3(h) of the Order, the same procedures as those under \u00a7 2001.26(a) will be followed with the exception that the number \u201c50\u201d will be used in place of the \u201c25.\u201d"
+              },
+              {
+                "#text": "(4) Requests for exemption from automatic declassification at 50 years from elements of the Intelligence Community (to include pertinent elements of the Department of Defense) should include a statement of support from the Director of National Intelligence or his or her designee. Requests for automatic declassification exemptions from elements of the Department of Defense (to include pertinent elements of the Intelligence community) should include a statement of support from the Secretary of Defense or his or her designee. Requests for automatic declassification exemptions from elements of the Department of Homeland Security should include a statement of support from the Secretary of the Department of Homeland Security or his or her designee."
+              },
+              {
+                "I": {
+                  "#text": "Marking information exempted from automatic declassification at 75 years."
+                },
+                "#text": "(c)"
+              },
+              {
+                "#text": "(1) Information approved by the Panel as exempt from automatic declassification at 75 years shall be marked \u201c75X\u201d with the appropriate automatic declassification exemption category number followed by the approved declassification date or event."
+              },
+              {
+                "#text": "(2) Requests for exemption from automatic declassification at 75 years from elements of the Intelligence Community (to include pertinent elements of the Department of Defense) should include a statement of support from the Director of National Intelligence or his or her designee. Requests for automatic declassification exemptions from elements of the Department of Defense (to include pertinent elements of the Intelligence community) should include a statement of support from the Secretary of Defense or his or her designee."
+              }
+            ],
+            "EXTRACT": [
+              {
+                "P": [
+                  {
+                    "#text": "25X1: reveal the identity of a confidential human source, a human intelligence source, a relationship with an intelligence or security service of a foreign government or international organization, or a non-human intelligence source; or impair the effectiveness of an intelligence method currently in use, available for use, or under development."
+                  },
+                  {
+                    "#text": "25X2: reveal information that would assist in the development, production, or use of weapons of mass destruction;"
+                  },
+                  {
+                    "#text": "25X3: reveal information that would impair U.S. cryptologic systems or activities;"
+                  },
+                  {
+                    "#text": "25X4: reveal information that would impair the application of state-of-the-art technology within a U.S. weapon system;"
+                  },
+                  {
+                    "#text": "25X5: reveal formally named or numbered U.S. military war plans that remain in effect, or reveal operational or tactical elements of prior plans that are contained in such active plans;"
+                  },
+                  {
+                    "#text": "25X6: reveal information, including foreign government information, that would cause serious harm to relations between the United States and a foreign government, or to ongoing diplomatic activities of the United States;"
+                  },
+                  {
+                    "#text": "25X7: reveal information that would impair the current ability of United States Government officials to protect the President, Vice President, and other protectees for whom protection services, in the interest of the national security, are authorized;"
+                  },
+                  {
+                    "#text": "25X8: reveal information that would seriously impair current national security emergency preparedness plans or reveal current vulnerabilities of systems, installations, or infrastructures relating to the national security; or"
+                  },
+                  {
+                    "#text": "25X9: violate a statute, treaty, or international agreement that does not permit the automatic or unilateral declassification of information at 25 years."
+                  }
+                ]
+              },
+              {
+                "P": {
+                  "#text": "Declassify On: 25X4, 20501001"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@N": "D",
+        "@TYPE": "SUBPART",
+        "@hierarchy_metadata": "{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-32/part-2001/subpart-D&quot;,&quot;citation&quot;:&quot;32 CFR Part 2001 Subpart D&quot;}",
+        "HEAD": {
+          "#text": "Subpart D\u2014Declassification"
+        },
+        "DIV8": [
+          {
+            "@N": "2001.30",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.30\",\"citation\":\"32 CFR 2001.30\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.30 Automatic declassification."
+            },
+            "P": [
+              {
+                "I": {
+                  "#text": "General."
+                },
+                "#text": "(a)"
+              },
+              {
+                "I": {
+                  "#text": "Presidential papers, materials, and records."
+                },
+                "#text": "(b)"
+              },
+              {
+                "I": {
+                  "#text": "Classified information in the custody of contractors, licensees, certificate holders, or grantees."
+                },
+                "#text": "(c)"
+              },
+              {
+                "I": {
+                  "#text": "Transferred information."
+                },
+                "#text": "(d)"
+              },
+              {
+                "I": {
+                  "#text": "Unofficially transferred information."
+                },
+                "#text": "(e)"
+              },
+              {
+                "I": {
+                  "#text": "Processing records originated by another agency."
+                },
+                "#text": "(f)"
+              },
+              {
+                "I": {
+                  "#text": "Unscheduled records."
+                },
+                "#text": "(g)"
+              },
+              {
+                "I": {
+                  "#text": "Temporary records and non-record materials."
+                },
+                "#text": "(h)"
+              },
+              {
+                "I": {
+                  "#text": "Foreign government information."
+                },
+                "#text": "(i)"
+              },
+              {
+                "I": {
+                  "#text": "Assistance to the Archivist of the United States."
+                },
+                "#text": "(j)"
+              },
+              {
+                "I": {
+                  "#text": "Use of approved declassification guides."
+                },
+                "#text": "(k)"
+              },
+              {
+                "I": {
+                  "#text": "Automatic declassification date."
+                },
+                "#text": "(l)"
+              },
+              {
+                "I": {
+                  "#text": "Exemption from Automatic Declassification at 25, 50, or 75 years."
+                },
+                "#text": "(m)"
+              },
+              {
+                "I": [
+                  {
+                    "#text": "Delays in the onset of automatic declassification"
+                  },
+                  {
+                    "#text": "Media that make a review for possible declassification exemptions more difficult or costly."
+                  }
+                ],
+                "#text": "(n)"
+              },
+              {
+                "#text": "(i) Records requiring extraordinary preservation or conservation treatment, to include reformatting, to preclude damage to the records by declassification processing;"
+              },
+              {
+                "#text": "(ii) Records which pose a potential menace to health, life, or property due to contamination by a hazardous substance; and"
+              },
+              {
+                "#text": "(iii) Electronic media if the media is subject to issues of software or hardware obsolescence or degraded data."
+              },
+              {
+                "I": {
+                  "#text": "Referred records."
+                },
+                "#text": "(2)"
+              },
+              {
+                "#text": "(i) Information properly identified as a referral to another agency contained in records accessioned by NARA or in the custody of the presidential libraries shall be subject to automatic declassification only after the referral has been made available by NARA for agency review in accordance with \u00a7 2001.34, provided the information has not otherwise been properly exempted by an equity holding agency under section 3.3 of the Order."
+              },
+              {
+                "#text": "(ii) Information properly identified as a referral to another agency contained in records maintained in the physical, but not legal, custody of NARA shall be subject to automatic declassification after accessioning and in accordance with \u00a7 2001.34, provided the information has not otherwise been properly exempted by an equity holding agency under section 3.3 of the Order."
+              },
+              {
+                "I": {
+                  "#text": "Newly discovered records."
+                },
+                "#text": "(3)"
+              },
+              {
+                "I": {
+                  "#text": "Integral file blocks."
+                },
+                "#text": "(4)"
+              },
+              {
+                "I": {
+                  "#text": "File series exemptions."
+                },
+                "#text": "(5)"
+              },
+              {
+                "I": {
+                  "#text": "Redaction standard."
+                },
+                "#text": "(o)"
+              },
+              {
+                "I": {
+                  "#text": "Restricted Data and Formerly Restricted Data."
+                },
+                "#text": "(p)"
+              },
+              {
+                "#text": "(i) The design, manufacture, or utilization of atomic weapons;"
+              },
+              {
+                "I": {
+                  "#text": "e.g.,"
+                },
+                "#text": "(ii) The production of special nuclear material,"
+              },
+              {
+                "#text": "(iii) The use of special nuclear material in the production of energy."
+              },
+              {
+                "#text": "(2) Formerly Restricted Data is information that is still classified under the Atomic Energy Act of 1954, as amended, but which has been removed from the Restricted Data category because it is related primarily to the military utilization of atomic weapons."
+              },
+              {
+                "#text": "(3) Any document marked as containing Restricted Data or Formerly Restricted Data or identified as potentially containing unmarked Restricted Data or Formerly Restricted Data shall be referred to the Department of Energy in accordance with \u00a7 2001.34(b)(8)."
+              },
+              {
+                "#text": "(4) Automatic declassification of documents containing Restricted Data or Formerly Restricted Data is prohibited. Documents marked as containing Restricted Data or Formerly Restricted Data are excluded from the automatic declassification provisions of the Order until the Restricted Data or Formerly Restricted Data designation is properly removed by the Department of Energy. When the Department of Energy determines that a Restricted Data or Formerly Restricted Data designation may be removed, any remaining information classified under the Order must be referred to the appropriate agency in accordance with the declassification provisions of the Order and this Directive."
+              },
+              {
+                "#text": "(5) Any document containing information concerning foreign nuclear programs that was removed from the Restricted Data category in order to carry out provisions of the National Security Act of 1947, as amended, shall be referred to the Department of Energy."
+              },
+              {
+                "I": {
+                  "#text": "e.g.,"
+                },
+                "#text": "(6) The Secretary of Energy shall determine when information concerning foreign nuclear programs that was removed from the Restricted Data category in order to carry out the provisions of the National Security Act of 1947, as amended, may be declassified. Unless otherwise determined, information concerning foreign nuclear programs ("
+              }
+            ]
+          },
+          {
+            "@N": "2001.31",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.31\",\"citation\":\"32 CFR 2001.31\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.31 Systematic declassification review."
+            },
+            "P": {
+              "I": {
+                "#text": "General."
+              },
+              "#text": "(a)"
+            }
+          },
+          {
+            "@N": "2001.32",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.32\",\"citation\":\"32 CFR 2001.32\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.32 Declassification guides."
+            },
+            "P": [
+              {
+                "I": {
+                  "#text": "Preparation of declassification guides."
+                },
+                "#text": "(a)"
+              },
+              {
+                "I": {
+                  "#text": "General content of declassification guides."
+                },
+                "#text": "(b)"
+              },
+              {
+                "#text": "(1) Be submitted by the agency head or the designated senior agency official;"
+              },
+              {
+                "#text": "(2) Provide the date of issuance or last review;"
+              },
+              {
+                "#text": "(3) State precisely the information that the agency proposes to exempt from automatic declassification and to specifically declassify;"
+              },
+              {
+                "#text": "(4) Identify any related files series that have been exempted from automatic declassification pursuant to section 3.3(c) of the Order; and"
+              },
+              {
+                "#text": "(5) To the extent a guide is used in conjunction with the automatic declassification provisions in section 3.3 of the Order, state precisely the elements of information to be exempted from declassification to include:"
+              },
+              {
+                "#text": "(i) The appropriate exemption category listed in section 3.3(b), and, if appropriate, section 3.3(h) of the Order; and"
+              },
+              {
+                "#text": "(ii) A date or event for declassification that is in accordance with section 3.3(b) or section 3.3(h)."
+              },
+              {
+                "I": {
+                  "#text": "Internal review and update."
+                },
+                "#text": "(c)"
+              },
+              {
+                "I": {
+                  "#text": "Dissemination of guides."
+                },
+                "#text": "(d)"
+              },
+              {
+                "#text": "(2) Declassification guides or detailed declassification guidance shall be submitted to the Director of the NDC in accordance with section 3.7(b)(3) of the Order."
+              }
+            ]
+          },
+          {
+            "@N": "2001.33",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.33\",\"citation\":\"32 CFR 2001.33\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.33 Mandatory review for declassification."
+            },
+            "P": [
+              {
+                "I": [
+                  {
+                    "#text": "U.S. originated information"
+                  },
+                  {
+                    "#text": "Regulations."
+                  }
+                ],
+                "E": {
+                  "@T": "04",
+                  "#text": "Federal Register"
+                },
+                "#text": "(a)"
+              },
+              {
+                "I": [
+                  {
+                    "#text": "Processing"
+                  },
+                  {
+                    "#text": "Requests for classified records in the custody of the originating agency."
+                  }
+                ],
+                "#text": "(2)"
+              },
+              {
+                "I": {
+                  "#text": "Requests for classified records in the custody of an agency other than the originating agency."
+                },
+                "#text": "(ii)"
+              },
+              {
+                "I": {
+                  "#text": "Appeals of denials of mandatory declassification review requests."
+                },
+                "#text": "(iii)"
+              },
+              {
+                "I": {
+                  "#text": "Appeals to the Interagency Security Classification Appeals Panel."
+                },
+                "E": {
+                  "@T": "04",
+                  "#text": "Federal Register"
+                },
+                "#text": "(iv)"
+              },
+              {
+                "I": {
+                  "#text": "Records subject to mandatory declassification review."
+                },
+                "#text": "(v)"
+              },
+              {
+                "I": {
+                  "#text": "Foreign government information."
+                },
+                "#text": "(b)"
+              },
+              {
+                "I": {
+                  "#text": "Cryptologic information."
+                },
+                "#text": "(c)"
+              },
+              {
+                "I": {
+                  "#text": "Intelligence information."
+                },
+                "#text": "(d)"
+              },
+              {
+                "I": {
+                  "#text": "Fees."
+                },
+                "#text": "(e)"
+              },
+              {
+                "I": {
+                  "#text": "Requests filed under mandatory declassification review and the Freedom of Information Act."
+                },
+                "#text": "(f)"
+              },
+              {
+                "I": {
+                  "#text": "FOIA and Privacy Act requests."
+                },
+                "#text": "(g)"
+              },
+              {
+                "I": {
+                  "#text": "Redaction standard."
+                },
+                "#text": "(h)"
+              },
+              {
+                "I": {
+                  "#text": "Limitations on requests."
+                },
+                "#text": "(i)"
+              }
+            ]
+          },
+          {
+            "@N": "2001.34",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.34\",\"citation\":\"32 CFR 2001.34\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.34 Referrals."
+            },
+            "P": [
+              {
+                "I": {
+                  "#text": "General."
+                },
+                "#text": "(a)"
+              },
+              {
+                "I": {
+                  "#text": "Automatic declassification."
+                },
+                "#text": "(b)"
+              },
+              {
+                "#text": "(1) In accordance with section 3.3(d)(3) of the Order, the identification of records eligible for referral is the responsibility of the primary reviewing agency and shall be completed prior to the date of automatic declassification established by section 3.3(a) of the Order."
+              },
+              {
+                "I": {
+                  "#text": "Government Declassification Review Tab,"
+                },
+                "#text": "(2) Except as otherwise determined by the Director of the NDC, primary reviewing agencies shall utilize the Standard Form 715,"
+              },
+              {
+                "#text": "(3) Notification of referral of records accessioned into NARA or in the custody of the presidential libraries, and making the records available for review, is the responsibility of NARA and shall be accomplished through the NDC."
+              },
+              {
+                "#text": "(4) Within 180 days of the effective date of this provision, the NDC shall develop and provide the affected agencies with a comprehensive and prioritized schedule for the resolution of referrals contained in accessioned Federal records and Presidential records. The schedule shall be developed in consultation with the affected agencies, consider the public interest in the records, and be in accordance with the authorized delays to automatic declassification set forth in section 3.3(d) of the Order. The initial schedule shall cover the balance of the first effective fiscal year and four subsequent fiscal years. Thereafter, the schedule shall cover five fiscal years. The NDC shall consult with the affected agencies and update and provide such schedules annually."
+              },
+              {
+                "#text": "(5) The NDC shall provide formal notification of the availability of a referral to the receiving agency and records will be subject to automatic declassification in accordance with the schedule promulgated by the NDC in paragraph (b)(4) of this section, unless the information has been properly exempted by an equity holding agency under section 3.3 of the Order."
+              },
+              {
+                "#text": "(6) Records in the physical but not legal custody of NARA shall be subject to automatic declassification after accessioning and in accordance with paragraphs (b)(3) and (b)(5) of this section."
+              },
+              {
+                "#text": "(7) Agencies that establish a centralized facility as described in section 3.7(e) may make direct referrals provided such activities fall within the priorities and schedule established by the NDC and the activity is otherwise coordinated with the NDC. In such cases, the centralized facility is responsible for providing formal notification of a referral to receiving agencies and for making the records available for review or direct formal referral to agencies by providing a copy of the records unless another mechanism is identified in coordination with the NDC. As established in section 3.3(d)(3)(B), referrals to agencies from a centralized agency records facility as described in section 3.7(e) of the Order will be automatically declassified up to three years after the formal notification has been made, if the receiving agency fails to provide a final determination."
+              },
+              {
+                "#text": "(8) Records marked as containing Restricted Data or Formerly Restricted Data or identified as potentially containing unmarked Restricted Data or Formerly Restricted Data shall be referred to the Department of Energy through the NDC. If the Department of Energy confirms that the document contains Restricted Data or Formerly Restricted Data, it shall then be excluded from the automatic declassification provisions of the Order until the Restricted Data or Formerly Restricted Data designation is properly removed."
+              },
+              {
+                "#text": "(i) When the Department of Energy provides notification that a Restricted Data or Formerly Restricted Data designation is not appropriate or when it is properly removed, the record shall be processed for automatic declassification through the NDC."
+              },
+              {
+                "#text": "(ii) In all cases, should the record be the subject of an access demand made pursuant to the Order or provision of law, the information classified pursuant to Executive order (rather than the Atomic Energy Act, as amended) must stand on its own merits."
+              },
+              {
+                "#text": "(9) The NDC, as well as any centralized agency facility established under section 3.7(e) of the Order, shall track and document referral actions and decisions in a manner that facilitates archival processing for public access. Central agency facilities must work with the NDC to ensure documentation meets NDC requirements, and transfer all documentation on pending referral actions and referral decisions to the NDC when transferring the records to NARA."
+              },
+              {
+                "#text": "(10) In all cases, receiving agencies shall acknowledge receipt of formal referral notifications in a timely manner. If a disagreement arises concerning referral notifications, the Director of ISOO will determine the automatic declassification date and notify the senior agency official, as well as the NDC or the primary reviewing agency."
+              },
+              {
+                "I": {
+                  "#text": "Remote Archives Capture (RAC)."
+                },
+                "#text": "(11)"
+              },
+              {
+                "I": {
+                  "#text": "Agencies eligible to receive referrals."
+                },
+                "#text": "(c)"
+              },
+              {
+                "I": {
+                  "#text": "Systematic declassification review."
+                },
+                "#text": "(d)"
+              },
+              {
+                "I": {
+                  "#text": "Identification of interests other than national security."
+                },
+                "#text": "(e)"
+              }
+            ]
+          },
+          {
+            "@N": "2001.35",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.35\",\"citation\":\"32 CFR 2001.35\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.35 Discretionary declassification."
+            },
+            "P": [
+              {
+                "#text": "(a) In accordance with section 3.1(d) of the Order, agencies may declassify information when the public interest in disclosure outweighs the need for continued classification."
+              },
+              {
+                "#text": "(b) Agencies may also establish a discretionary declassification program that is separate from their automatic, systematic, and mandatory review programs."
+              }
+            ]
+          },
+          {
+            "@N": "2001.36",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.36\",\"citation\":\"32 CFR 2001.36\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.36 Classified information in the custody of private organizations or individuals."
+            },
+            "P": [
+              {
+                "I": {
+                  "#text": "Authorized holders."
+                },
+                "#text": "(a)"
+              },
+              {
+                "I": {
+                  "#text": "Others."
+                },
+                "#text": "(b)"
+              }
+            ]
+          },
+          {
+            "@N": "2001.37",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.37\",\"citation\":\"32 CFR 2001.37\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.37 Assistance to the Department of State."
+            },
+            "P": {
+              "#text": "Heads of agencies shall assist the Department of State in its preparation of the Foreign Relations of the United States (FRUS) series by facilitating access to appropriate classified materials in their custody and by expediting declassification review of documents proposed for inclusion in the FRUS. If an agency fails to provide a final declassification review determination regarding a Department of State referral within 120 days of the date of the referral, or if applicable, within 120 days of the date of a High Level Panel decision, the Department of State, consistent with 22 U.S.C. 4353 and any implementing agency procedures, may seek the assistance of the Panel."
+            }
+          }
+        ]
+      },
+      {
+        "@N": "E",
+        "@TYPE": "SUBPART",
+        "@hierarchy_metadata": "{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-32/part-2001/subpart-E&quot;,&quot;citation&quot;:&quot;32 CFR Part 2001 Subpart E&quot;}",
+        "HEAD": {
+          "#text": "Subpart E\u2014Safeguarding"
+        },
+        "DIV8": [
+          {
+            "@N": "2001.40",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.40\",\"citation\":\"32 CFR 2001.40\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.40 General."
+            },
+            "P": [
+              {
+                "#text": "(a) Classified information, regardless of its form, shall be afforded a level of protection against loss or unauthorized disclosure commensurate with its level of classification."
+              },
+              {
+                "#text": "(b) Except for foreign government information, agency heads or their designee(s) may adopt alternative measures, using risk management principles, to protect against loss or unauthorized disclosure when necessary to meet operational requirements. When alternative measures are used for other than temporary, unique situations, the alternative measures shall be documented and provided to the Director of ISOO. Upon request, the description shall be provided to any other agency with which classified information or secure facilities are shared. In all cases, the alternative measures shall provide protection sufficient to reasonably deter and detect loss or unauthorized disclosure. Risk management factors considered will include sensitivity, value, and crucial nature of the information; analysis of known and anticipated threats; vulnerability; and countermeasure benefits versus cost."
+              },
+              {
+                "#text": "(c) North Atlantic Treaty Organization (NATO) classified information shall be safeguarded in compliance with U.S. Security Authority for NATO Instruction (USSAN) 1-07. Other foreign government information shall be safeguarded as described herein for U.S. information except as required by an existing treaty, agreement or other obligation (hereinafter, obligation). When the information is to be safeguarded pursuant to an existing obligation, the additional requirements at \u00a7 2001.54 may apply to the extent they were required in the obligation as originally negotiated or are agreed upon during amendment. Negotiations on new obligations or amendments to existing obligations shall strive to bring provisions for safeguarding foreign government information into accord with standards for safeguarding U.S. information as described in this Directive."
+              },
+              {
+                "I": {
+                  "#text": "Need-to-know determinations."
+                },
+                "#text": "(d)"
+              },
+              {
+                "#text": "(2) In instances where the provisions of section 4.1(a) of the Order are met, but there is a countervailing need to restrict the information, disagreements that cannot be resolved shall be referred by agency heads or designees to either the Director of ISOO or, with respect to the Intelligence Community, the Director of National Intelligence, as appropriate. Disagreements concerning information protected under section 4.3 of the Order shall instead be referred to the appropriate official named in section 4.3 of the Order."
+              }
+            ]
+          },
+          {
+            "@N": "2001.41",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.41\",\"citation\":\"32 CFR 2001.41\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.41 Responsibilities of holders."
+            },
+            "P": [
+              {
+                "#text": "Authorized persons who have access to classified information are responsible for:"
+              },
+              {
+                "#text": "(a) Protecting it from persons without authorized access to that information, to include securing it in approved equipment or facilities whenever it is not under the direct control of an authorized person;"
+              },
+              {
+                "#text": "(b) Meeting safeguarding requirements prescribed by the agency head; and"
+              },
+              {
+                "#text": "(c) Ensuring that classified information is not communicated over unsecured voice or data circuits, in public conveyances or places, or in any other manner that permits interception by unauthorized persons."
+              }
+            ]
+          },
+          {
+            "@N": "2001.42",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.42\",\"citation\":\"32 CFR 2001.42\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.42 Standards for security equipment."
+            },
+            "P": [
+              {
+                "I": {
+                  "#text": "Storage."
+                },
+                "#text": "(a)"
+              },
+              {
+                "I": {
+                  "#text": "Destruction."
+                },
+                "#text": "(b)"
+              }
+            ]
+          },
+          {
+            "@N": "2001.43",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.43\",\"citation\":\"32 CFR 2001.43\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.43 Storage."
+            },
+            "P": [
+              {
+                "I": {
+                  "#text": "General."
+                },
+                "#text": "(a)"
+              },
+              {
+                "I": [
+                  {
+                    "#text": "Requirements for physical protection"
+                  },
+                  {
+                    "#text": "Top Secret."
+                  }
+                ],
+                "#text": "(b)"
+              },
+              {
+                "#text": "(i) For GSA-approved containers, one of the following supplemental controls:"
+              },
+              {
+                "#text": "(A) Inspection of the container every two hours by an employee cleared at least to the Secret level;"
+              },
+              {
+                "#text": "(B) An Intrusion Detection System (IDS) with the personnel responding to the alarm arriving within 15 minutes of the alarm annunciation. Acceptability of Intrusion Detection Equipment (IDE): All IDE must be in accordance with standards approved by ISOO. Government and proprietary installed, maintained, or furnished systems are subject to approval only by the agency head; or"
+              },
+              {
+                "#text": "(C) Security-In-Depth coverage of the area in which the container is located, provided the container is equipped with a lock meeting Federal Specification FF-L-2740."
+              },
+              {
+                "#text": "(ii) For open storage areas covered by Security-In-Depth, an IDS with the personnel responding to the alarm arriving within 15 minutes of the alarm annunciation."
+              },
+              {
+                "#text": "(iii) For open storage areas not covered by Security-In-Depth, personnel responding to the alarm shall arrive within five minutes of the alarm annunciation."
+              },
+              {
+                "I": {
+                  "#text": "Secret."
+                },
+                "#text": "(2)"
+              },
+              {
+                "#text": "(i) Inspection of the container or open storage area every four hours by an employee cleared at least to the Secret level; or"
+              },
+              {
+                "#text": "(ii) An IDS with the personnel responding to the alarm arriving within 30 minutes of the alarm annunciation."
+              },
+              {
+                "I": {
+                  "#text": "Confidential."
+                },
+                "#text": "(3)"
+              },
+              {
+                "I": {
+                  "#text": "Combinations."
+                },
+                "#text": "(c)"
+              },
+              {
+                "I": {
+                  "#text": "Equipment in service."
+                },
+                "#text": "(1)"
+              },
+              {
+                "#text": "(i) Whenever such equipment is placed into use;"
+              },
+              {
+                "#text": "(ii) Whenever a person knowing the combination no longer requires access to it unless other sufficient controls exist to prevent access to the lock; or"
+              },
+              {
+                "#text": "(iii) Whenever a combination has been subject to possible unauthorized disclosure."
+              },
+              {
+                "I": {
+                  "#text": "Equipment out of service."
+                },
+                "#text": "(2)"
+              },
+              {
+                "I": {
+                  "#text": "Key operated locks."
+                },
+                "#text": "(d)"
+              },
+              {
+                "I": {
+                  "#text": "Repairs."
+                },
+                "#text": "(e)"
+              }
+            ]
+          },
+          {
+            "@N": "2001.44",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.44\",\"citation\":\"32 CFR 2001.44\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.44 Reciprocity of use and inspection of facilities."
+            },
+            "P": [
+              {
+                "#text": "(a) Once a facility is authorized, approved, certified, or accredited for classified use, then all agencies desiring to conduct classified work in the designated space(s) at the same security level shall accept the authorization, approval, certification, or accreditation without change, enhancements, or upgrades provided that no waiver, exception, or deviation has been issued or approved. In the event that a waiver exception, or deviation was granted in the original accreditation of the designated space(s), an agency seeking to utilize the designated facility space may require that a risk mitigation strategy be implemented or agreed upon prior to using the space(s)."
+              },
+              {
+                "#text": "(b) Subsequent security inspections or reviews for authorization, approval, certification, or accreditation purposes shall normally be conducted no more frequently than annually unless otherwise required due to a change in the designated facility space(s) or due to a change in the use or ownership of the facility space(s). This does not imply a formal one-year inspection or review requirement or establish any other formal period for inspections or review."
+              }
+            ]
+          },
+          {
+            "@N": "2001.45",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.45\",\"citation\":\"32 CFR 2001.45\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.45 Information controls."
+            },
+            "P": [
+              {
+                "I": {
+                  "#text": "General."
+                },
+                "#text": "(a)"
+              },
+              {
+                "I": {
+                  "#text": "Combinations."
+                },
+                "#text": "(1)"
+              },
+              {
+                "I": {
+                  "#text": "Computer and information system passwords."
+                },
+                "#text": "(2)"
+              },
+              {
+                "I": {
+                  "#text": "Reproduction."
+                },
+                "#text": "(b)"
+              },
+              {
+                "#text": "(1) Reproduction shall be accomplished by authorized persons knowledgeable of the procedures for classified reproduction;"
+              },
+              {
+                "#text": "(2) Unless restricted by the originating agency, Top Secret, Secret, and Confidential information may be reproduced to the extent required by operational needs, or to facilitate review for declassification;"
+              },
+              {
+                "#text": "(3) Copies of classified information shall be subject to the same controls as the original information; and"
+              },
+              {
+                "#text": "(4) The use of technology that prevents, discourages, or detects the unauthorized reproduction of classified information is encouraged."
+              },
+              {
+                "I": {
+                  "#text": "Forms."
+                },
+                "#text": "(c)"
+              },
+              {
+                "I": [
+                  {
+                    "#text": "Redaction"
+                  },
+                  {
+                    "#text": "Policies and procedures."
+                  }
+                ],
+                "#text": "(d)"
+              },
+              {
+                "I": {
+                  "#text": "Technical guidance for redaction."
+                },
+                "#text": "(2)"
+              }
+            ]
+          },
+          {
+            "@N": "2001.46",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.46\",\"citation\":\"32 CFR 2001.46\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.46 Transmission."
+            },
+            "P": [
+              {
+                "I": {
+                  "#text": "General."
+                },
+                "#text": "(a)"
+              },
+              {
+                "I": {
+                  "#text": "Dispatch."
+                },
+                "#text": "(b)"
+              },
+              {
+                "#text": "(1) All classified information physically transmitted outside facilities shall be enclosed in two layers, both of which provide reasonable evidence of tampering and which conceal the contents. The inner enclosure shall clearly identify the address of both the sender and the intended recipient, the highest classification level of the contents, and any appropriate warning notices. The outer enclosure shall be the same except that no markings to indicate that the contents are classified shall be visible. Intended recipients shall be identified by name only as part of an attention line. The following exceptions apply:"
+              },
+              {
+                "#text": "(i) If the classified information is an internal component of a packable item of equipment, the outside shell or body may be considered as the inner enclosure provided it does not reveal classified information;"
+              },
+              {
+                "#text": "(ii) If the classified information is an inaccessible internal component of a bulky item of equipment, the outside or body of the item may be considered to be a sufficient enclosure provided observation of it does not reveal classified information;"
+              },
+              {
+                "#text": "(iii) If the classified information is an item of equipment that is not reasonably packable and the shell or body is classified, it shall be concealed with an opaque enclosure that will hide all classified features;"
+              },
+              {
+                "#text": "(iv) Specialized shipping containers, including closed cargo transporters or diplomatic pouch, may be considered the outer enclosure when used; and"
+              },
+              {
+                "#text": "(v) When classified information is hand-carried outside a facility, a locked briefcase may serve as the outer enclosure."
+              },
+              {
+                "#text": "(2) Couriers and authorized persons designated to hand-carry classified information shall ensure that the information remains under their constant and continuous protection and that direct point-to-point delivery is made. As an exception, agency heads may approve, as a substitute for a courier on direct flights, the use of specialized shipping containers that are of sufficient construction to provide evidence of forced entry, are secured with a combination padlock meeting Federal Specification FF-P-110, are equipped with an electronic seal that would provide evidence of surreptitious entry and are handled by the carrier in a manner to ensure that the container is protected until its delivery is completed."
+              },
+              {
+                "I": [
+                  {
+                    "#text": "Transmission methods within and between the U.S., Puerto Rico, or a U.S. possession or trust territory"
+                  },
+                  {
+                    "#text": "Top Secret."
+                  }
+                ],
+                "#text": "(c)"
+              },
+              {
+                "I": {
+                  "#text": "Secret."
+                },
+                "#text": "(2)"
+              },
+              {
+                "#text": "(i) Any of the methods established for Top Secret; U.S. Postal Service Express Mail and U.S. Postal Service Registered Mail, as long as the Waiver of Signature block on the U.S. Postal Service Express Mail Label shall not be completed; and cleared commercial carriers or cleared commercial messenger services. The use of street-side mail collection boxes is strictly prohibited; and"
+              },
+              {
+                "#text": "(ii) Agency heads may, when a requirement exists for overnight delivery within the U.S. and its Territories, authorize the use of the current holder of the GSA contract for overnight delivery of information for the Executive Branch as long as applicable postal regulations (39 CFR. Chapter I) are met. Any such delivery service shall be U.S. owned and operated, provide automated in-transit tracking of the classified information, and ensure package integrity during transit. The contract shall require cooperation with government inquiries in the event of a loss, theft, or possible unauthorized disclosure of classified information. The sender is responsible for ensuring that an authorized person will be available to receive the delivery and verification of the correct mailing address. The package may be addressed to the recipient by name. The release signature block on the receipt label shall not be executed under any circumstances. The use of external (street side) collection boxes is prohibited. Classified Communications Security Information, NATO, and foreign government information shall not be transmitted in this manner."
+              },
+              {
+                "I": {
+                  "#text": "Confidential."
+                },
+                "#text": "(3)"
+              },
+              {
+                "I": {
+                  "#text": "Transmission methods to a U.S. Government facility located outside the U.S."
+                },
+                "#text": "(d)"
+              },
+              {
+                "I": {
+                  "#text": "Transmission of U.S. classified information to foreign governments."
+                },
+                "#text": "(e)"
+              },
+              {
+                "I": {
+                  "#text": "Receipt of classified information."
+                },
+                "#text": "(f)"
+              }
+            ]
+          },
+          {
+            "@N": "2001.47",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.47\",\"citation\":\"32 CFR 2001.47\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.47 Destruction."
+            },
+            "P": {
+              "#text": "Classified information identified for destruction shall be destroyed completely to preclude recognition or reconstruction of the classified information in accordance with procedures and methods prescribed by agency heads. The methods and equipment used to routinely destroy classified information include burning, cross-cut shredding, wet-pulping, melting, mutilation, chemical decomposition or pulverizing. Agencies shall comply with the destruction equipment standard stated in \u00a7 2001.42(b) of this Directive."
+            }
+          },
+          {
+            "@N": "2001.48",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.48\",\"citation\":\"32 CFR 2001.48\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.48 Loss, possible compromise or unauthorized disclosure."
+            },
+            "P": [
+              {
+                "I": {
+                  "#text": "General."
+                },
+                "#text": "(a)"
+              },
+              {
+                "I": {
+                  "#text": "Cases involving information originated by a foreign government or another U.S. government agency."
+                },
+                "#text": "(b)"
+              },
+              {
+                "I": {
+                  "#text": "Inquiry/investigation and corrective actions."
+                },
+                "#text": "(c)"
+              },
+              {
+                "I": {
+                  "#text": "Reports to ISOO."
+                },
+                "#text": "(d)"
+              },
+              {
+                "#text": "(1) Is reported to oversight committees in the Legislative branch;"
+              },
+              {
+                "#text": "(2) May attract significant public attention;"
+              },
+              {
+                "#text": "(3) Involves large amounts of classified information; or"
+              },
+              {
+                "#text": "(4) Reveals a potential systemic weakness in classification, safeguarding, or declassification policy or practices."
+              },
+              {
+                "I": {
+                  "#text": "Department of Justice and legal counsel coordination."
+                },
+                "#text": "(e)"
+              },
+              {
+                "#text": "(1) The Department of Justice, and"
+              },
+              {
+                "#text": "(2) The legal counsel of the agency where the individual responsible is assigned or employed."
+              }
+            ]
+          },
+          {
+            "@N": "2001.49",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.49\",\"citation\":\"32 CFR 2001.49\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.49 Special access programs."
+            },
+            "P": [
+              {
+                "I": {
+                  "#text": "General."
+                },
+                "#text": "(a)"
+              },
+              {
+                "I": {
+                  "#text": "Significant interagency support requirements."
+                },
+                "#text": "(b)"
+              }
+            ]
+          },
+          {
+            "@N": "2001.50",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.50\",\"citation\":\"32 CFR 2001.50\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.50 Telecommunications automated information systems and network security."
+            },
+            "P": {
+              "I": {
+                "#text": "Intelligence Community Information Technology Systems Security Risk Management, Certification, and Accreditation."
+              },
+              "#text": "Each agency head shall ensure that classified information electronically accessed, processed, stored or transmitted is protected in accordance with applicable national policy issuances identified in the Committee on National Security Systems (CNSS) issuances and the Intelligence Community Directive (ICD) 503,"
+            }
+          },
+          {
+            "@N": "2001.51",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.51\",\"citation\":\"32 CFR 2001.51\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.51 Technical security."
+            },
+            "P": {
+              "I": [
+                {
+                  "#text": "TEMPEST Countermeasures for Facilities,"
+                },
+                {
+                  "#text": "National Policy on Technical Surveillance Countermeasures."
+                }
+              ],
+              "#text": "Based upon the risk management factors referenced in \u00a7 2001.40 of this directive, agency heads shall determine the requirement for technical countermeasures such as Technical Surveillance Countermeasures and TEMPEST necessary to detect or deter exploitation of classified information through technical collection methods and may apply countermeasures in accordance with NSTISSI 7000,"
+            }
+          },
+          {
+            "@N": "2001.52",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.52\",\"citation\":\"32 CFR 2001.52\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.52 Emergency authority."
+            },
+            "P": [
+              {
+                "#text": "(a) Agency heads or any designee may prescribe special provisions for the dissemination, transmission, safeguarding, and destruction of classified information during certain emergency situations."
+              },
+              {
+                "#text": "(b) In emergency situations, in which there is an imminent threat to life or in defense of the homeland, agency heads or designees may authorize the disclosure of classified information to an individual or individuals who are otherwise not routinely eligible for access under the following conditions:"
+              },
+              {
+                "#text": "(1) Limit the amount of classified information disclosed to the absolute minimum to achieve the purpose;"
+              },
+              {
+                "#text": "(2) Limit the number of individuals who receive it;"
+              },
+              {
+                "#text": "(3) Transmit the classified information via approved Federal Government channels by the most secure and expeditious method to include those required in \u00a7 2001.46, or other means deemed necessary when time is of the essence;"
+              },
+              {
+                "#text": "(4) Provide instructions about what specific information is classified and how it should be safeguarded; physical custody of classified information must remain with an authorized Federal Government entity, in all but the most extraordinary circumstances;"
+              },
+              {
+                "#text": "(5) Provide appropriate briefings to the recipients on their responsibilities not to disclose the information and obtain a signed nondisclosure agreement;"
+              },
+              {
+                "#text": "(6) Within 72 hours of the disclosure of classified information, or the earliest opportunity that the emergency permits, but no later than 30 days after the release, the disclosing authority must notify the originating agency of the information by providing the following information:"
+              },
+              {
+                "#text": "(i) A description of the disclosed information;"
+              },
+              {
+                "#text": "(ii) To whom the information was disclosed;"
+              },
+              {
+                "#text": "(iii) How the information was disclosed and transmitted;"
+              },
+              {
+                "#text": "(iv) Reason for the emergency release;"
+              },
+              {
+                "#text": "(v) How the information is being safeguarded; and"
+              },
+              {
+                "#text": "(vi) A description of the briefings provided and a copy of the nondisclosure agreements signed."
+              },
+              {
+                "#text": "(7) Information disclosed in emergency situations shall not be required to be declassified as a result of such disclosure or subsequent use by a recipient."
+              }
+            ]
+          },
+          {
+            "@N": "2001.53",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.53\",\"citation\":\"32 CFR 2001.53\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.53 Open storage areas."
+            },
+            "P": [
+              {
+                "#text": "This section describes the minimum construction standards for open storage areas."
+              },
+              {
+                "I": {
+                  "#text": "Construction."
+                },
+                "#text": "(a)"
+              },
+              {
+                "I": {
+                  "#text": "Doors."
+                },
+                "#text": "(b)"
+              },
+              {
+                "I": {
+                  "#text": "Vents, ducts, and miscellaneous openings."
+                },
+                "#text": "(c)"
+              },
+              {
+                "I": {
+                  "#text": "Windows."
+                },
+                "#text": "(d)"
+              },
+              {
+                "#text": "(2) Windows within 18 feet of the ground will be constructed from or covered with materials which provide protection from forced entry. The protection provided to the windows need be no stronger than the strength of the contiguous walls. Open storage areas which are located within a controlled compound or equivalent may eliminate the requirement for forced entry protection if the windows are made inoperable either by permanently sealing them or equipping them on the inside with a locking mechanism and they are covered by an IDS (either independently or by the motion detection sensors within the area)."
+              }
+            ]
+          },
+          {
+            "@N": "2001.54",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.54\",\"citation\":\"32 CFR 2001.54\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.54 Foreign government information."
+            },
+            "P": [
+              {
+                "#text": "The requirements described below are additional baseline safeguarding standards that may be necessary for foreign government information, other than NATO information, that requires protection pursuant to an existing treaty, agreement, bilateral exchange or other obligation. NATO classified information shall be safeguarded in compliance with USSAN 1-07. To the extent practical, and to facilitate its control, foreign government information should be stored separately from other classified information. To avoid additional costs, separate storage may be accomplished by methods such as separate drawers of a container. The safeguarding standards described in paragraphs (a) through (e) of this section may be modified if required or permitted by treaties or agreements, or for other obligations, with the prior written consent of the National Security Authority of the originating government, hereafter \u201coriginating government.\u201d"
+              },
+              {
+                "I": {
+                  "#text": "Top Secret."
+                },
+                "#text": "(a)"
+              },
+              {
+                "I": {
+                  "#text": "Secret."
+                },
+                "#text": "(b)"
+              },
+              {
+                "I": {
+                  "#text": "Confidential."
+                },
+                "#text": "(c)"
+              },
+              {
+                "I": [
+                  {
+                    "#text": "Restricted and other foreign government information provided in confidence."
+                  },
+                  {
+                    "#text": "e.g.,"
+                  }
+                ],
+                "#text": "(d)"
+              },
+              {
+                "#text": "(1) Documents may retain their original foreign markings if the responsible agency determines that these markings are adequate to meet the purposes served by U.S. classification markings. Otherwise, documents shall be marked, \u201cThis document contains (insert name of country) (insert classification level) information to be treated as U.S. (insert classification level).\u201d The notation, \u201cModified Handling Authorized,\u201d may be added to either the foreign or U.S. markings authorized for foreign government information. If remarking foreign originated documents or matter is impractical, an approved cover sheet is an authorized option;"
+              },
+              {
+                "#text": "(2) Documents shall be provided only to persons in accordance with sections 4.1(a) and (h) of the Order;"
+              },
+              {
+                "#text": "(3) Individuals being given access shall be notified of applicable handling instructions. This may be accomplished by a briefing, written instructions, or by applying specific handling requirements to an approved cover sheet;"
+              },
+              {
+                "#text": "(4) Documents shall be stored in such a manner so as to prevent unauthorized access;"
+              },
+              {
+                "#text": "(5) Documents shall be transmitted in a method approved for classified information, unless this method is waived by the originating government."
+              },
+              {
+                "I": {
+                  "#text": "Third-country transfers."
+                },
+                "#text": "(e)"
+              }
+            ]
+          },
+          {
+            "@N": "2001.55",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.55\",\"citation\":\"32 CFR 2001.55\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.55 Foreign disclosure of classified information."
+            },
+            "P": {
+              "#text": "Classified information originating in one agency may be disseminated by any other agency to which it has been made available to a foreign government or international organization of governments, or any element thereof, in accordance with statute, the Order, directives implementing the Order, direction of the President, or with the consent of the originating agency, unless the originating agency has determined that prior authorization is required for such dissemination and has marked or indicated such requirement on the medium containing the classified information. Markings used to implement this section shall be approved in accordance with \u00a7 2001.24(j). With respect to the Intelligence Community, the Director of National Intelligence may issue policy directives or guidelines pursuant to section 6.2(b) of the Order that modify such prior authorization."
+            }
+          }
+        ]
+      },
+      {
+        "@N": "F",
+        "@TYPE": "SUBPART",
+        "@hierarchy_metadata": "{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-32/part-2001/subpart-F&quot;,&quot;citation&quot;:&quot;32 CFR Part 2001 Subpart F&quot;}",
+        "HEAD": {
+          "#text": "Subpart F\u2014Self-Inspections"
+        },
+        "DIV8": {
+          "@N": "2001.60",
+          "@TYPE": "SECTION",
+          "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.60\",\"citation\":\"32 CFR 2001.60\"}",
+          "HEAD": {
+            "#text": "\u00a7 2001.60 General."
+          },
+          "P": [
+            {
+              "I": {
+                "#text": "Purpose."
+              },
+              "#text": "(a)"
+            },
+            {
+              "I": {
+                "#text": "Responsibility."
+              },
+              "#text": "(b)"
+            },
+            {
+              "I": {
+                "#text": "Approach."
+              },
+              "#text": "(c)"
+            },
+            {
+              "#text": "(1) Self-inspections should evaluate the adherence to the principles and requirements of the Order and this directive and the effectiveness of agency programs covering original classification, derivative classification, declassification, safeguarding, security violations, security education and training, and management and oversight."
+            },
+            {
+              "#text": "(2) Regular reviews of representative samples of the agency's original and derivative classification actions shall encompass all agency activities that generate classified information. They shall include a sample of varying types of classified information (in document and electronic format such as e-mail) to provide a representative sample of the activity's classification actions. The sample shall be proportionally sufficient to enable a credible assessment of the agency's classified product. Agency personnel who are assigned to conduct reviews of agencies' original and derivative classification actions shall be knowledgeable of the classification and marking requirements of the Order and this directive, and have access to pertinent security classification guides. In accordance with section 5.4(d)(4) of the Order, the senior agency official shall authorize appropriate agency officials to correct misclassification actions."
+            },
+            {
+              "#text": "(3) Self-inspections should include a review of relevant security directives and instructions, as well as interviews with producers and users of classified information."
+            },
+            {
+              "I": {
+                "#text": "Frequency."
+              },
+              "#text": "(d)"
+            },
+            {
+              "I": {
+                "#text": "Coverage."
+              },
+              "#text": "(e)"
+            },
+            {
+              "I": {
+                "#text": "Reporting."
+              },
+              "#text": "(f)"
+            },
+            {
+              "I": {
+                "#text": "Internal."
+              },
+              "#text": "(1)"
+            },
+            {
+              "I": {
+                "#text": "External."
+              },
+              "#text": "(2)"
+            },
+            {
+              "#text": "(i) A description of the agency's self-inspection program to include activities assessed, program areas covered, and methodology utilized;"
+            },
+            {
+              "#text": "(ii) The assessment and a summary of the findings of the agency self-inspections in the following program areas: Original classification, derivative classification, declassification, safeguarding, security violations, security education and training, and management and oversight;"
+            },
+            {
+              "#text": "(iii) Specific information with regard to the findings of the annual review of the agency's original and derivative classification actions to include the volume of classified materials reviewed and the number and type of discrepancies that were identified;"
+            },
+            {
+              "#text": "(iv) Actions that have been taken or are planned to correct identified deficiencies or misclassification actions, and to deter their reoccurrence; and"
+            },
+            {
+              "#text": "(v) Best practices that were identified during self-inspections."
+            }
+          ]
+        }
+      },
+      {
+        "@N": "G",
+        "@TYPE": "SUBPART",
+        "@hierarchy_metadata": "{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-32/part-2001/subpart-G&quot;,&quot;citation&quot;:&quot;32 CFR Part 2001 Subpart G&quot;}",
+        "HEAD": {
+          "#text": "Subpart G\u2014Security Education and Training"
+        },
+        "DIV8": [
+          {
+            "@N": "2001.70",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.70\",\"citation\":\"32 CFR 2001.70\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.70 General."
+            },
+            "P": [
+              {
+                "I": {
+                  "#text": "Purpose."
+                },
+                "#text": "(a)"
+              },
+              {
+                "#text": "(1) Ensure that all executive branch employees who create, process, or handle classified information have a satisfactory knowledge and understanding of classification, safeguarding, and declassification policies and procedures;"
+              },
+              {
+                "#text": "(2) Increase uniformity in the conduct of agency security education and training programs; and"
+              },
+              {
+                "#text": "(3) Reduce instances of over-classification or improper classification, improper safeguarding, and inappropriate or inadequate declassification practices."
+              },
+              {
+                "I": {
+                  "#text": "Responsibility."
+                },
+                "#text": "(b)"
+              },
+              {
+                "I": {
+                  "#text": "Approach."
+                },
+                "#text": "(c)"
+              },
+              {
+                "I": {
+                  "#text": "Frequency."
+                },
+                "#text": "(d)"
+              },
+              {
+                "#text": "(1) Initial training shall be provided to every person who has met the standards for access to classified information in accordance with section 4.1 of the Order."
+              },
+              {
+                "#text": "(2) Original classification authorities shall receive training in proper classification and declassification prior to originally classifying information and at least once each calendar year thereafter."
+              },
+              {
+                "#text": "(3) Persons who apply derivative classification markings shall receive training in the proper application of the derivative classification principles of the Order prior to derivatively classifying information and at least once every two years."
+              },
+              {
+                "#text": "(4) Each agency shall provide some form of refresher security education and training at least annually for all its personnel who handle or generate classified information."
+              }
+            ]
+          },
+          {
+            "@N": "2001.71",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.71\",\"citation\":\"32 CFR 2001.71\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.71 Coverage."
+            },
+            "P": [
+              {
+                "I": {
+                  "#text": "General."
+                },
+                "#text": "(a)"
+              },
+              {
+                "I": {
+                  "#text": "Initial training."
+                },
+                "#text": "(b)"
+              },
+              {
+                "I": {
+                  "#text": "Training for original classification authorities."
+                },
+                "#text": "(c)"
+              },
+              {
+                "#text": "(1) Personnel shall receive this training prior to originally classifying information."
+              },
+              {
+                "#text": "(2) In addition to this initial training, original classification authorities shall receive training in proper classification and declassification at least once each calendar year."
+              },
+              {
+                "#text": "(3) Original classification authorities who do not receive such mandatory training at least once within a calendar year shall have their classification authority suspended until such training has taken place."
+              },
+              {
+                "#text": "(i) An agency head, deputy agency head, or senior agency official may grant a waiver of this requirement if an individual is unable to receive this training due to unavoidable circumstances. All such waivers shall be documented."
+              },
+              {
+                "#text": "(ii) Whenever such a waiver is granted, the individual shall receive the required training as soon as practicable."
+              },
+              {
+                "I": {
+                  "#text": "Training for persons who apply derivative classification markings."
+                },
+                "#text": "(d)"
+              },
+              {
+                "#text": "(1) Personnel shall receive this training prior to derivatively classifying information."
+              },
+              {
+                "#text": "(2) In addition to this preparatory training, derivative classifiers shall receive such training at least once every two years."
+              },
+              {
+                "#text": "(3) Derivative classifiers who do not receive such mandatory training at least once every two years shall have their authority to apply derivative classification markings suspended until they have received such training."
+              },
+              {
+                "#text": "(i) An agency head, deputy agency head, or senior agency official may grant a waiver of this requirement if an individual is unable to receive this training due to unavoidable circumstances. All such waivers shall be documented."
+              },
+              {
+                "#text": "(ii) Whenever such a waiver is granted, the individual shall receive the required training as soon as practicable."
+              },
+              {
+                "I": {
+                  "#text": "Other specialized security education and training."
+                },
+                "#text": "(e)"
+              },
+              {
+                "I": {
+                  "#text": "Annual refresher security education and training."
+                },
+                "#text": "(f)"
+              },
+              {
+                "I": {
+                  "#text": "Termination briefings."
+                },
+                "#text": "(g)"
+              },
+              {
+                "I": {
+                  "#text": "Other security education and training."
+                },
+                "#text": "(h)"
+              },
+              {
+                "#text": "(1) Practices applicable to U.S. officials traveling overseas;"
+              },
+              {
+                "#text": "(2) Procedures for protecting classified information processed and stored in automated information systems;"
+              },
+              {
+                "#text": "(3) Methods for dealing with uncleared personnel who work in proximity to classified information;"
+              },
+              {
+                "#text": "(4) Responsibilities of personnel serving as couriers of classified information; and"
+              },
+              {
+                "#text": "(5) Security requirements that govern participation in international programs."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@N": "H",
+        "@TYPE": "SUBPART",
+        "@hierarchy_metadata": "{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-32/part-2001/subpart-H&quot;,&quot;citation&quot;:&quot;32 CFR Part 2001 Subpart H&quot;}",
+        "HEAD": {
+          "#text": "Subpart H\u2014Standard Forms"
+        },
+        "DIV8": {
+          "@N": "2001.80",
+          "@TYPE": "SECTION",
+          "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.80\",\"citation\":\"32 CFR 2001.80\"}",
+          "HEAD": {
+            "#text": "\u00a7 2001.80 Prescribed standard forms."
+          },
+          "P": [
+            {
+              "I": {
+                "#text": "General."
+              },
+              "#text": "(a)"
+            },
+            {
+              "I": [
+                {
+                  "#text": "Waivers."
+                },
+                {
+                  "#text": "Reforming Processes Related to Suitability for Government Employment, Fitness for Contractor Employees, and Eligibility for Access to Classified National Security Information"
+                }
+              ],
+              "#text": "(b)"
+            },
+            {
+              "I": {
+                "#text": "Availability."
+              },
+              "#text": "(c)"
+            },
+            {
+              "I": {
+                "#text": "Standard Forms."
+              },
+              "#text": "(d)"
+            },
+            {
+              "I": {
+                "#text": "SF 311, Agency Security Classification Management Program Data:"
+              },
+              "#text": "(1)"
+            },
+            {
+              "I": {
+                "#text": "SF 312, Classified Information Nondisclosure Agreement:"
+              },
+              "#text": "(2)"
+            },
+            {
+              "#text": "(i) The SF 312 is a nondisclosure agreement between the United States and an employee of the Federal Government or one of its contractors, licensees, or grantees. The prior execution of this form by an individual is necessary before the United States Government may grant that individual access to classified information, with the exception of an emergency as defined in section 4.2(b) of the Order."
+            },
+            {
+              "I": [
+                {
+                  "#text": "i.e.,"
+                },
+                {
+                  "#text": "i.e.,"
+                },
+                {
+                  "#text": "i.e.,"
+                }
+              ],
+              "#text": "(ii) The SF 312 may be filled out electronically or by hand, then must be signed. It may be signed by hand and scanned, if the implementing agency permits and the scanned version is done in a way that constitutes a legally enforceable facsimile. Alternatively, the form may be digitally signed if the implementing agency permits, and if the digital signature mechanism employs public key cryptography in a way that meaningfully guarantees authenticity ("
+            },
+            {
+              "#text": "(iii) The SF 312 is the current authorized form; if an employee originally signed the now outdated SF 189 or SF 189-A, or a form under an approved waiver, as agreement to nondisclosure, the forms remain valid. The SF 189 and SF 189-A are no longer available for use with new employees."
+            },
+            {
+              "#text": "(iv) The use of the \u201cSecurity Debriefing Acknowledgement\u201d portion of the SF 312 is optional at the discretion of the implementing agency. If an agency chooses not to record its debriefing by signing/dating the debriefing section of the SF 312, then the agency shall provide an alternative record."
+            },
+            {
+              "#text": "(v) An authorized representative of a contractor, licensee, grantee, or other non-Government organization, acting as a designated agent of the United States, may witness the execution of the SF 312 by another non-Government employee, and may accept it on behalf of the United States. Also, an employee of a United States agency may witness the execution of the SF 312 by an employee, contractor, licensee, or grantee of another United States agency, provided that an authorized United States Government official or, for non-Government employees only, a designated agent of the United States subsequently accepts by signature the SF 312 on behalf of the United States. If the SF 312 is digitally signed, it does not require a witness to observe and verify the digital signature, and therefore also does not require an official to subsequently accept the signature."
+            },
+            {
+              "#text": "(vi) The provisions of the SF 312, the SF 189, and the SF 189-A do not supersede the provisions of 5 U.S.C. 2302, which pertain to the protected disclosure of information by Government employees, or any other laws of the United States."
+            },
+            {
+              "#text": "(vii) Each agency must retain its executed copies of the SF 312, SF 189, and SF 189-A in file systems from which an agreement can be expeditiously retrieved in the event that the United States must seek its enforcement or a subsequent employer must confirm its prior execution. The original (either in paper form or electronic form), or a legally enforceable facsimile that is retained in lieu of the original, such as microfiche, microfilm, computer disk, or electronic storage medium, must be retained for 50 years following its date of execution. For agreements executed by civilian employees of the United States Government, an agency may store the executed copy of the SF 312 and SF 189 in the United States Office of Personnel Management's Official Personnel Folder as a long-term (right side) document for that employee. An agency may permit its contractors, licensees, and grantees to retain the executed agreements of their employees during the time of employment. Upon the termination of employment, the contractors, licensee, or grantee shall deliver the original or legally enforceable facsimile of the executed SF 312, SF 189, or SF 189-A of that employee to the Government agency primarily responsible for his or her classified work. A contractor, licensee, or grantee of an agency participating in the National Industrial Security Program shall provide the copy or legally enforceable facsimile of the executed SF 312, SF 189, or SF 189-A of a terminated employee to their cognizant security office. Each agency shall inform ISOO of the file systems that it uses to store these agreements for each category of affected individuals."
+            },
+            {
+              "#text": "(viii) Only the Director of National Intelligence, as the Security Executive Agent, may grant an agency's request for a waiver from the use of the SF 312. To apply for a waiver, an agency must submit its proposed alternative nondisclosure agreement to the Director of the Special Security Center (SSC), Office of the Director of National Intelligence, along with a justification for its use. The Director, SSC, shall request a determination about the alternative agreement's enforceability from the Department of Justice."
+            },
+            {
+              "#text": "(ix) The national stock number for the SF 312 is 7540-01-280-5499."
+            },
+            {
+              "I": {
+                "#text": "SF 700, Security Container Information:"
+              },
+              "#text": "(3)"
+            },
+            {
+              "I": {
+                "#text": "SF 701, Activity Security Checklist:"
+              },
+              "#text": "(4)"
+            },
+            {
+              "I": {
+                "#text": "SF 702, Security Container Check Sheet:"
+              },
+              "#text": "(5)"
+            },
+            {
+              "I": {
+                "#text": "SF 703, TOP SECRET Cover Sheet:"
+              },
+              "#text": "(6)"
+            },
+            {
+              "I": {
+                "#text": "SF 704, SECRET Cover Sheet:"
+              },
+              "#text": "(7)"
+            },
+            {
+              "I": {
+                "#text": "SF 705, CONFIDENTIAL Cover Sheet:"
+              },
+              "#text": "(8)"
+            },
+            {
+              "I": {
+                "#text": "SF 706, TOP SECRET Label:"
+              },
+              "#text": "(9)"
+            },
+            {
+              "I": {
+                "#text": "SF 707, SECRET Label:"
+              },
+              "#text": "(10)"
+            },
+            {
+              "I": {
+                "#text": "SF 708, CONFIDENTIAL Label:"
+              },
+              "#text": "(11)"
+            },
+            {
+              "I": {
+                "#text": "SF 709, CLASSIFIED Label:"
+              },
+              "#text": "(12)"
+            },
+            {
+              "I": {
+                "#text": "SF 710, UNCLASSIFIED Label:"
+              },
+              "#text": "(13)"
+            },
+            {
+              "I": {
+                "#text": "SF 711, DATA DESCRIPTOR Label:"
+              },
+              "#text": "(14)"
+            },
+            {
+              "I": {
+                "#text": "SF 714, Financial Disclosure Report:"
+              },
+              "#text": "(15)"
+            },
+            {
+              "I": {
+                "#text": "SF 715, Government Declassification Review Tab:"
+              },
+              "#text": "(16)"
+            }
+          ],
+          "CITA": {
+            "@TYPE": "N",
+            "#text": "[75 FR 37254, June 28, 2010, as amended at 87 FR 17952, Mar. 29, 2022]"
+          }
+        }
+      },
+      {
+        "@N": "I",
+        "@TYPE": "SUBPART",
+        "@hierarchy_metadata": "{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-32/part-2001/subpart-I&quot;,&quot;citation&quot;:&quot;32 CFR Part 2001 Subpart I&quot;}",
+        "HEAD": {
+          "#text": "Subpart I\u2014Reporting and Definitions"
+        },
+        "DIV8": [
+          {
+            "@N": "2001.90",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.90\",\"citation\":\"32 CFR 2001.90\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.90 Agency annual reporting requirements."
+            },
+            "P": [
+              {
+                "I": {
+                  "#text": "Delegations of original classification authority."
+                },
+                "#text": "(a)"
+              },
+              {
+                "I": {
+                  "#text": "Statistical reporting."
+                },
+                "#text": "(b)"
+              },
+              {
+                "I": {
+                  "#text": "Accounting for costs."
+                },
+                "#text": "(c)"
+              },
+              {
+                "I": {
+                  "#text": "National Industrial Security Program,"
+                },
+                "#text": "(2) The Secretary of Defense, acting as the executive agent for the National Industrial Security Program under E.O.12829, as amended,"
+              },
+              {
+                "I": {
+                  "#text": "Self-Inspections."
+                },
+                "#text": "(d)"
+              }
+            ]
+          },
+          {
+            "@N": "2001.91",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.91\",\"citation\":\"32 CFR 2001.91\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.91 Other agency reporting requirements."
+            },
+            "P": [
+              {
+                "I": {
+                  "#text": "Information declassified without proper authority."
+                },
+                "#text": "(a)"
+              },
+              {
+                "I": {
+                  "#text": "Reclassification actions."
+                },
+                "#text": "(b)"
+              },
+              {
+                "I": {
+                  "#text": "Fundamental classification guidance review."
+                },
+                "#text": "(c)"
+              },
+              {
+                "I": {
+                  "#text": "Violations of the Order."
+                },
+                "#text": "(d)"
+              }
+            ]
+          },
+          {
+            "@N": "2001.92",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2001.92\",\"citation\":\"32 CFR 2001.92\"}",
+            "HEAD": {
+              "#text": "\u00a7 2001.92 Definitions."
+            },
+            "P": [
+              {
+                "I": {
+                  "#text": "Accessioned records"
+                },
+                "#text": "(a)"
+              },
+              {
+                "I": {
+                  "#text": "Authorized person"
+                },
+                "#text": "(b)"
+              },
+              {
+                "I": {
+                  "#text": "Classification management"
+                },
+                "#text": "(c)"
+              },
+              {
+                "I": {
+                  "#text": "Cleared commercial carrier"
+                },
+                "#text": "(d)"
+              },
+              {
+                "I": {
+                  "#text": "Control"
+                },
+                "#text": "(e)"
+              },
+              {
+                "I": {
+                  "#text": "Employee"
+                },
+                "#text": "(f)"
+              },
+              {
+                "I": {
+                  "#text": "Equity"
+                },
+                "#text": "(g)"
+              },
+              {
+                "#text": "(1) Originally classified by or under the control of an agency;"
+              },
+              {
+                "#text": "(2) In the possession of the receiving agency in the event of transfer of function; or"
+              },
+              {
+                "#text": "(3) In the possession of a successor agency for an agency that has ceased to exist."
+              },
+              {
+                "I": {
+                  "#text": "Exempted"
+                },
+                "#text": "(h)"
+              },
+              {
+                "I": {
+                  "#text": "Facility"
+                },
+                "#text": "(i)"
+              },
+              {
+                "I": {
+                  "#text": "Federal record"
+                },
+                "#text": "(j)"
+              },
+              {
+                "I": {
+                  "#text": "Newly discovered records"
+                },
+                "#text": "(k)"
+              },
+              {
+                "I": {
+                  "#text": "Open storage area"
+                },
+                "#text": "(l)"
+              },
+              {
+                "I": {
+                  "#text": "Original classification authority with jurisdiction over the information"
+                },
+                "#text": "(m)"
+              },
+              {
+                "#text": "(1) The official who authorized the original classification, if that official is still serving in the same position;"
+              },
+              {
+                "#text": "(2) The originator's current successor in function;"
+              },
+              {
+                "#text": "(3) A supervisory official of either; or"
+              },
+              {
+                "#text": "(4) The senior agency official under the Order."
+              },
+              {
+                "I": {
+                  "#text": "Permanent records"
+                },
+                "#text": "(n)"
+              },
+              {
+                "I": [
+                  {
+                    "#text": "Permanently valuable information"
+                  },
+                  {
+                    "#text": "permanent historical value"
+                  }
+                ],
+                "#text": "(o)"
+              },
+              {
+                "#text": "(1) Records that have been accessioned by the National Archives;"
+              },
+              {
+                "#text": "(2) Records that have been scheduled as permanent under a records disposition schedule approved by the National Archives; and"
+              },
+              {
+                "#text": "(3) Presidential historical materials, presidential records or donated historical materials located in the National Archives, a presidential library, or any other approved repository."
+              },
+              {
+                "I": {
+                  "#text": "Presidential papers, historical materials, and records"
+                },
+                "#text": "(p)"
+              },
+              {
+                "I": {
+                  "#text": "Redaction"
+                },
+                "#text": "(q)"
+              },
+              {
+                "I": {
+                  "#text": "Risk management principles"
+                },
+                "#text": "(r)"
+              },
+              {
+                "I": {
+                  "#text": "Security-in-depth"
+                },
+                "#text": "(s)"
+              },
+              {
+                "I": {
+                  "#text": "Supplemental controls"
+                },
+                "#text": "(t)"
+              },
+              {
+                "I": [
+                  {
+                    "#text": "Temporary records"
+                  },
+                  {
+                    "#text": "disposable records."
+                  }
+                ],
+                "#text": "(u)"
+              },
+              {
+                "I": {
+                  "#text": "Transclassification"
+                },
+                "#text": "(v)"
+              },
+              {
+                "I": {
+                  "#text": "Unscheduled records"
+                },
+                "#text": "(w)"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
