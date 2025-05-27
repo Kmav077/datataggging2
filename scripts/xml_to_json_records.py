@@ -1,8 +1,8 @@
 import xml.etree.ElementTree as ET
 import json
 
-xml_file = "/workspaces/datataggging2/Regulations/National-controls/Regulations/National Controls/security-controls-2001.xml"
-output_json = "/workspaces/datataggging2/Regulations/National-controls/Regulations/National Controls/security-controls-2001.json"
+xml_file = "/workspaces/datataggging2/Regulations/National_Controls/Regulations/National Controls/security-controls-2001.xml"
+output_json = "/workspaces/datataggging2/Regulations/National_Controls/Regulations/National Controls/security-controls-2001.json"
 
 def elem_to_dict(elem):
     d = {}
