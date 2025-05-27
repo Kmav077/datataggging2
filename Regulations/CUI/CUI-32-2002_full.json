@@ -1,0 +1,1689 @@
+{
+  "DIV5": {
+    "@N": "2002",
+    "@TYPE": "PART",
+    "@VOLUME": "6",
+    "@hierarchy_metadata": "{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-32/part-2002&quot;,&quot;citation&quot;:&quot;32 CFR Part 2002&quot;}",
+    "HEAD": {
+      "#text": "PART 2002\u2014CONTROLLED UNCLASSIFIED INFORMATION (CUI)"
+    },
+    "AUTH": {
+      "HED": {
+        "#text": "Authority:"
+      },
+      "PSPACE": {
+        "#text": "E.O. 13556, 75 FR 68675, 3 CFR, 2010 Comp., pp. 267-270."
+      }
+    },
+    "SOURCE": {
+      "HED": {
+        "#text": "Source:"
+      },
+      "PSPACE": {
+        "#text": "81 FR 63336, Sept. 14, 2016, unless otherwise noted."
+      }
+    },
+    "DIV6": [
+      {
+        "@N": "A",
+        "@TYPE": "SUBPART",
+        "@hierarchy_metadata": "{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-32/part-2002/subpart-A&quot;,&quot;citation&quot;:&quot;32 CFR Part 2002 Subpart A&quot;}",
+        "HEAD": {
+          "#text": "Subpart A\u2014General Information"
+        },
+        "DIV8": [
+          {
+            "@N": "2002.1",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2002.1\",\"citation\":\"32 CFR 2002.1\"}",
+            "HEAD": {
+              "#text": "\u00a7 2002.1 Purpose and scope."
+            },
+            "P": [
+              {
+                "#text": "(a) This part describes the executive branch's Controlled Unclassified Information (CUI) Program (the CUI Program) and establishes policy for designating, handling, and decontrolling information that qualifies as CUI."
+              },
+              {
+                "I": {
+                  "#text": "et seq."
+                },
+                "#text": "(b) The CUI Program standardizes the way the executive branch handles information that requires protection under laws, regulations, or Government-wide policies, but that does not qualify as classified under Executive Order 13526, Classified National Security Information, December 29, 2009 (3 CFR, 2010 Comp., p. 298), or any predecessor or successor order, or the Atomic Energy Act of 1954 (42 U.S.C. 2011,"
+              },
+              {
+                "#text": "(c) All unclassified information throughout the executive branch that requires any safeguarding or dissemination control is CUI. Law, regulation (to include this part), or Government-wide policy must require or permit such controls. Agencies therefore may not implement safeguarding or dissemination controls for any unclassified information other than those controls consistent with the CUI Program."
+              },
+              {
+                "I": {
+                  "#text": "ad hoc,"
+                },
+                "#text": "(d) Prior to the CUI Program, agencies often employed"
+              },
+              {
+                "#text": "(e) An executive branch-wide CUI policy balances the need to safeguard CUI with the public interest in sharing information appropriately and without unnecessary burdens."
+              },
+              {
+                "#text": "(f) This part applies to all executive branch agencies that designate or handle information that meets the standards for CUI. This part does not apply directly to non-executive branch entities, but it does apply indirectly to non-executive branch CUI recipients, through incorporation into agreements (see \u00a7\u00a7 2002.4(c) and 2002.16(a) for more information)."
+              },
+              {
+                "#text": "(g) This part rescinds Controlled Unclassified Information (CUI) Office Notice 2011-01: Initial Implementation Guidance for Executive Order 13556 (June 9, 2011)."
+              },
+              {
+                "#text": "(h) This part creates no right or benefit, substantive or procedural, enforceable by law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person."
+              },
+              {
+                "I": {
+                  "#text": "ad hoc"
+                },
+                "#text": "(i) This part, which contains the CUI Executive Agent (EA)'s control policy, overrides agency-specific or"
+              }
+            ]
+          },
+          {
+            "@N": "2002.2",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2002.2\",\"citation\":\"32 CFR 2002.2\"}",
+            "HEAD": {
+              "#text": "\u00a7 2002.2 Incorporation by reference."
+            },
+            "P": [
+              {
+                "E": {
+                  "@T": "04",
+                  "#text": "Federal Register"
+                },
+                "I": [
+                  {
+                    "#text": "regulation_comments@nara.gov"
+                  },
+                  {
+                    "#text": "http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html."
+                  }
+                ],
+                "#text": "(a) NARA incorporates certain material by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, NARA must publish notice of change in the"
+              },
+              {
+                "I": [
+                  {
+                    "#text": "inquiries@nist.gov,"
+                  },
+                  {
+                    "#text": "http://nist.gov/publication-portal.cfm."
+                  }
+                ],
+                "#text": "(b) The National Institute of Standards and Technology (NIST), by mail at 100 Bureau Drive, Stop 1070; Gaithersburg, MD 20899-1070, by email at"
+              },
+              {
+                "#text": "(1) FIPS PUB 199, Standards for Security Categorization of Federal Information and Information Systems, February 2004. IBR approved for \u00a7\u00a7 2002.14(c) and (g), and 2002.16(c)."
+              },
+              {
+                "E": {
+                  "@T": "03"
+                },
+                "#text": "(2) FIPS PUB 200, Minimum Security Requirements for Federal Information and Information Systems, March 2006. IBR approved for \u00a7\u00a7"
+              },
+              {
+                "#text": "(3) NIST Special Publication 800-53, Security and Privacy Controls for Federal Information Systems and Organizations, Revision 4, April 2013 (includes updates as of 01-22-2015), (NIST SP 800-53). IBR approved for \u00a7\u00a7 2002.14(c), (e), (f), and (g), and 2002.16(c)."
+              },
+              {
+                "#text": "(4) NIST Special Publication 800-88, Guidelines for Media Sanitization, Revision 1, December 2014, (NIST SP 800-88). IBR approved for \u00a7 2002.14(f)."
+              },
+              {
+                "#text": "(5) NIST Special Publication 800-171, Protecting Controlled Unclassified Information in Nonfederal Systems and Organizations, June 2015 (includes updates as of January 14, 2016), (NIST SP 800-171). IBR approved for \u00a7 2002.14(h)."
+              }
+            ]
+          },
+          {
+            "@N": "2002.4",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2002.4\",\"citation\":\"32 CFR 2002.4\"}",
+            "HEAD": {
+              "#text": "\u00a7 2002.4 Definitions."
+            },
+            "P": [
+              {
+                "#text": "As used in this part:"
+              },
+              {
+                "I": {
+                  "#text": "Agency"
+                },
+                "#text": "(a)"
+              },
+              {
+                "I": {
+                  "#text": "Agency CUI policies"
+                },
+                "#text": "(b)"
+              },
+              {
+                "I": {
+                  "#text": "Agreements and arrangements"
+                },
+                "#text": "(c)"
+              },
+              {
+                "I": {
+                  "#text": "Authorized holder"
+                },
+                "#text": "(d)"
+              },
+              {
+                "I": {
+                  "#text": "Classified information"
+                },
+                "#text": "(e)"
+              },
+              {
+                "I": [
+                  {
+                    "#text": "Controlled environment"
+                  },
+                  {
+                    "#text": "e.g.,"
+                  }
+                ],
+                "#text": "(f)"
+              },
+              {
+                "I": {
+                  "#text": "Control level"
+                },
+                "#text": "(g)"
+              },
+              {
+                "I": {
+                  "#text": "Controlled Unclassified Information"
+                },
+                "#text": "(h)"
+              },
+              {
+                "I": {
+                  "#text": "Controls"
+                },
+                "#text": "(i)"
+              },
+              {
+                "I": {
+                  "#text": "CUI Basic"
+                },
+                "#text": "(j)"
+              },
+              {
+                "I": {
+                  "#text": "CUI categories and subcategories"
+                },
+                "#text": "(k)"
+              },
+              {
+                "I": {
+                  "#text": "CUI category or subcategory markings"
+                },
+                "#text": "(l)"
+              },
+              {
+                "I": {
+                  "#text": "CUI Executive Agent (EA)"
+                },
+                "#text": "(m)"
+              },
+              {
+                "I": {
+                  "#text": "CUI Program"
+                },
+                "#text": "(n)"
+              },
+              {
+                "I": {
+                  "#text": "CUI Program manager"
+                },
+                "#text": "(o)"
+              },
+              {
+                "I": {
+                  "#text": "CUI Registry"
+                },
+                "#text": "(p)"
+              },
+              {
+                "I": {
+                  "#text": "CUI senior agency official (SAO)"
+                },
+                "#text": "(q)"
+              },
+              {
+                "I": {
+                  "#text": "CUI Specified"
+                },
+                "#text": "(r)"
+              },
+              {
+                "I": {
+                  "#text": "Decontrolling"
+                },
+                "#text": "(s)"
+              },
+              {
+                "I": [
+                  {
+                    "#text": "Designating"
+                  },
+                  {
+                    "#text": "CUI"
+                  }
+                ],
+                "#text": "(t)"
+              },
+              {
+                "I": {
+                  "#text": "Designating agency"
+                },
+                "#text": "(u)"
+              },
+              {
+                "I": {
+                  "#text": "Disseminating"
+                },
+                "#text": "(v)"
+              },
+              {
+                "I": {
+                  "#text": "Document"
+                },
+                "#text": "(w)"
+              },
+              {
+                "I": [
+                  {
+                    "#text": "Federal information system"
+                  },
+                  {
+                    "#text": "on behalf of an agency."
+                  }
+                ],
+                "#text": "(x)"
+              },
+              {
+                "I": {
+                  "#text": "Foreign entity"
+                },
+                "#text": "(y)"
+              },
+              {
+                "I": {
+                  "#text": "Formerly Restricted Data (FRD)"
+                },
+                "#text": "(z)"
+              },
+              {
+                "I": {
+                  "#text": "Handling"
+                },
+                "#text": "(aa)"
+              },
+              {
+                "I": {
+                  "#text": "Lawful Government purpose"
+                },
+                "#text": "(bb)"
+              },
+              {
+                "I": {
+                  "#text": "Legacy material"
+                },
+                "#text": "(cc)"
+              },
+              {
+                "I": {
+                  "#text": "Limited dissemination control"
+                },
+                "#text": "(dd)"
+              },
+              {
+                "I": {
+                  "#text": "Misuse of CUI"
+                },
+                "#text": "(ee)"
+              },
+              {
+                "I": {
+                  "#text": "National Security System"
+                },
+                "#text": "(ff)"
+              },
+              {
+                "I": {
+                  "#text": "Non-executive branch entity"
+                },
+                "#text": "(gg)"
+              },
+              {
+                "I": {
+                  "#text": "On behalf of an agency"
+                },
+                "#text": "(hh)"
+              },
+              {
+                "I": {
+                  "#text": "Order"
+                },
+                "#text": "(ii)"
+              },
+              {
+                "I": {
+                  "#text": "Portion"
+                },
+                "#text": "(jj)"
+              },
+              {
+                "I": {
+                  "#text": "Protection"
+                },
+                "#text": "(kk)"
+              },
+              {
+                "I": {
+                  "#text": "Public release"
+                },
+                "#text": "(ll)"
+              },
+              {
+                "I": {
+                  "#text": "Records"
+                },
+                "#text": "(mm)"
+              },
+              {
+                "I": {
+                  "#text": "Required or permitted (by a law, regulation, or Government-wide policy)"
+                },
+                "#text": "(nn)"
+              },
+              {
+                "I": {
+                  "#text": "Restricted Data (RD)"
+                },
+                "#text": "(oo)"
+              },
+              {
+                "I": {
+                  "#text": "Re-use"
+                },
+                "#text": "(pp)"
+              },
+              {
+                "I": {
+                  "#text": "Self-inspection"
+                },
+                "#text": "(qq)"
+              },
+              {
+                "I": {
+                  "#text": "Unauthorized disclosure"
+                },
+                "#text": "(rr)"
+              },
+              {
+                "I": {
+                  "#text": "Uncontrolled unclassified information"
+                },
+                "#text": "(ss)"
+              },
+              {
+                "I": {
+                  "#text": "Working papers"
+                },
+                "#text": "(tt)"
+              }
+            ]
+          },
+          {
+            "@N": "2002.6",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2002.6\",\"citation\":\"32 CFR 2002.6\"}",
+            "HEAD": {
+              "#text": "\u00a7 2002.6 CUI Executive Agent (EA)."
+            },
+            "P": [
+              {
+                "#text": "(a) Section 2(c) of the Order designates NARA as the CUI Executive Agent (EA) to implement the Order and to oversee agency efforts to comply with the Order, this part, and the CUI Registry."
+              },
+              {
+                "#text": "(b) NARA has delegated the CUI EA responsibilities to the Director of ISOO. Under this authority, ISOO staff carry out CUI oversight responsibilities and manage the Federal CUI program."
+              }
+            ]
+          },
+          {
+            "@N": "2002.8",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2002.8\",\"citation\":\"32 CFR 2002.8\"}",
+            "HEAD": {
+              "#text": "\u00a7 2002.8 Roles and responsibilities."
+            },
+            "P": [
+              {
+                "#text": "(a) The CUI EA:"
+              },
+              {
+                "#text": "(1) Develops and issues policy, guidance, and other materials, as needed, to implement the Order, the CUI Registry, and this part, and to establish and maintain the CUI Program;"
+              },
+              {
+                "#text": "(2) Consults with affected agencies, Government-wide policy bodies, State, local, Tribal, and private sector partners, and representatives of the public on matters pertaining to CUI as needed;"
+              },
+              {
+                "#text": "(3) Establishes, convenes, and chairs the CUI Advisory Council (the Council) to address matters pertaining to the CUI Program. The CUI EA consults with affected agencies to develop and document the Council's structure and procedures, and submits the details to OMB for approval;"
+              },
+              {
+                "#text": "(4) Reviews and approves agency policies implementing this part to ensure their consistency with the Order, this part, and the CUI Registry;"
+              },
+              {
+                "#text": "(5) Reviews, evaluates, and oversees agencies' actions to implement the CUI Program, to ensure compliance with the Order, this part, and the CUI Registry;"
+              },
+              {
+                "#text": "(6) Establishes a management and planning framework, including associated deadlines for phased implementation, based on agency compliance plans submitted pursuant to section 5(b) of the Order, and in consultation with affected agencies and OMB;"
+              },
+              {
+                "#text": "(7) Approves categories and subcategories of CUI as needed and publishes them in the CUI Registry;"
+              },
+              {
+                "#text": "(8) Maintains and updates the CUI Registry as needed;"
+              },
+              {
+                "#text": "(9) Prescribes standards, procedures, guidance, and instructions for oversight and agency self-inspection programs, to include performing on-site inspections;"
+              },
+              {
+                "#text": "(10) Standardizes forms and procedures to implement the CUI Program;"
+              },
+              {
+                "#text": "(11) Considers and resolves, as appropriate, disputes, complaints, and suggestions about the CUI Program from entities in or outside the Government; and"
+              },
+              {
+                "#text": "(12) Reports to the President on implementation of the Order and the requirements of this part. This includes publishing a report on the status of agency implementation at least biennially, or more frequently at the discretion of the CUI EA."
+              },
+              {
+                "#text": "(b) Agency heads:"
+              },
+              {
+                "#text": "(1) Ensure agency senior leadership support, and make adequate resources available to implement, manage, and comply with the CUI Program as administered by the CUI EA;"
+              },
+              {
+                "#text": "(2) Designate a CUI senior agency official (SAO) responsible for oversight of the agency's CUI Program implementation, compliance, and management, and include the official in agency contact listings;"
+              },
+              {
+                "#text": "(3) Approve agency policies, as required, to implement the CUI Program; and"
+              },
+              {
+                "#text": "(4) Establish and maintain a self-inspection program to ensure the agency complies with the principles and requirements of the Order, this part, and the CUI Registry."
+              },
+              {
+                "#text": "(c) The CUI SAO:"
+              },
+              {
+                "#text": "(1) Must be at the Senior Executive Service level or equivalent;"
+              },
+              {
+                "#text": "(2) Directs and oversees the agency's CUI Program;"
+              },
+              {
+                "#text": "(3) Designates a CUI Program manager;"
+              },
+              {
+                "#text": "(4) Ensures the agency has CUI implementing policies and plans, as needed;"
+              },
+              {
+                "#text": "(5) Implements an education and training program pursuant to \u00a7 2002.30;"
+              },
+              {
+                "#text": "(6) Upon request of the CUI EA under section 5(c) of the Order, provides an update of CUI implementation efforts for subsequent reporting;"
+              },
+              {
+                "#text": "(7) Submits to the CUI EA any law, regulation, or Government-wide policy not already incorporated into the CUI Registry that the agency proposes to use to designate unclassified information for safeguarding or dissemination controls;"
+              },
+              {
+                "#text": "(8) Coordinates with the CUI EA, as appropriate, any proposed law, regulation, or Government-wide policy that would establish, eliminate, or modify a category or subcategory of CUI, or change information controls applicable to CUI;"
+              },
+              {
+                "#text": "(9) Establishes processes for handling CUI decontrol requests submitted by authorized holders;"
+              },
+              {
+                "#text": "(10) Includes a description of all existing waivers in the annual report to the CUI EA, along with the rationale for each waiver and, where applicable, the alternative steps the agency is taking to ensure sufficient protection of CUI within the agency;"
+              },
+              {
+                "#text": "(11) Develops and implements the agency's self-inspection program;"
+              },
+              {
+                "#text": "(12) Establishes a mechanism by which authorized holders (both inside and outside the agency) can contact a designated agency representative for instructions when they receive unmarked or improperly marked information the agency designated as CUI;"
+              },
+              {
+                "#text": "(13) Establishes a process to accept and manage challenges to CUI status (which may include improper or absent marking);"
+              },
+              {
+                "#text": "(14) Establish processes and criteria for reporting and investigating misuse of CUI; and"
+              },
+              {
+                "#text": "(15) Follows the requirements for the CUI SAO listed in \u00a7 2002.38(e), regarding waivers for CUI."
+              },
+              {
+                "#text": "(d) The Director of National Intelligence: After consulting with the heads of affected agencies and the Director of ISOO, may issue directives to implement this part with respect to the protection of intelligence sources, methods, and activities. Such directives must be in accordance with the Order, this part, and the CUI Registry."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@N": "B",
+        "@TYPE": "SUBPART",
+        "@hierarchy_metadata": "{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-32/part-2002/subpart-B&quot;,&quot;citation&quot;:&quot;32 CFR Part 2002 Subpart B&quot;}",
+        "HEAD": {
+          "#text": "Subpart B\u2014Key Elements of the CUI Program"
+        },
+        "DIV8": [
+          {
+            "@N": "2002.10",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2002.10\",\"citation\":\"32 CFR 2002.10\"}",
+            "HEAD": {
+              "#text": "\u00a7 2002.10 The CUI Registry."
+            },
+            "P": [
+              {
+                "#text": "(a) The CUI EA maintains the CUI Registry, which:"
+              },
+              {
+                "#text": "(1) Is the authoritative central repository for all guidance, policy, instructions, and information on CUI (other than the Order and this part);"
+              },
+              {
+                "#text": "(2) Is publicly accessible;"
+              },
+              {
+                "#text": "(3) Includes authorized CUI categories and subcategories, associated markings, applicable decontrolling procedures, and other guidance and policy information; and"
+              },
+              {
+                "#text": "(4) Includes citation(s) to laws, regulations, or Government-wide policies that form the basis for each category and subcategory."
+              },
+              {
+                "#text": "(b) Agencies and authorized holders must follow the instructions contained in the CUI Registry in addition to all requirements in the Order and this part."
+              }
+            ]
+          },
+          {
+            "@N": "2002.12",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2002.12\",\"citation\":\"32 CFR 2002.12\"}",
+            "HEAD": {
+              "#text": "\u00a7 2002.12 CUI categories and subcategories."
+            },
+            "P": [
+              {
+                "#text": "(a) CUI categories and subcategories are the exclusive designations for identifying unclassified information that a law, regulation, or Government-wide policy requires or permits agencies to handle by means of safeguarding or dissemination controls. All unclassified information throughout the executive branch that requires any kind of safeguarding or dissemination control is CUI. Agencies may not implement safeguarding or dissemination controls for any unclassified information other than those controls permitted by the CUI Program."
+              },
+              {
+                "#text": "(b) Agencies may use only those categories or subcategories approved by the CUI EA and published in the CUI Registry to designate information as CUI."
+              }
+            ]
+          },
+          {
+            "@N": "2002.14",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2002.14\",\"citation\":\"32 CFR 2002.14\"}",
+            "HEAD": {
+              "#text": "\u00a7 2002.14 Safeguarding."
+            },
+            "P": [
+              {
+                "I": {
+                  "#text": "General safeguarding policy."
+                },
+                "#text": "(a)"
+              },
+              {
+                "#text": "(2) Safeguarding measures that agencies are authorized or accredited to use for classified information and national security systems are also sufficient for safeguarding CUI in accordance with the organization's management and acceptance of risk."
+              },
+              {
+                "#text": "(3) Agencies may increase CUI Basic's confidentiality impact level above moderate only internally, or by means of agreements with agencies or non-executive branch entities (including agreements for the operation of an information system on behalf of the agencies). Agencies may not otherwise require controls for CUI Basic at a level higher than permitted in the CUI Basic requirements when disseminating the CUI Basic outside the agency."
+              },
+              {
+                "#text": "(4) Authorized holders must comply with policy in the Order, this part, and the CUI Registry, and review any applicable agency CUI policies for additional instructions. For information designated as CUI Specified, authorized holders must also follow the procedures in the underlying laws, regulations, or Government-wide policies."
+              },
+              {
+                "I": {
+                  "#text": "CUI safeguarding standards."
+                },
+                "#text": "(b)"
+              },
+              {
+                "I": {
+                  "#text": "CUI Basic."
+                },
+                "#text": "(1)"
+              },
+              {
+                "I": {
+                  "#text": "CUI Specified."
+                },
+                "#text": "(2)"
+              },
+              {
+                "#text": "(ii) When the laws, regulations, or Government-wide policies governing a specific type of CUI Specified are silent on either a safeguarding or disseminating control, agencies must apply CUI Basic standards to that aspect of the information's controls, unless this results in treatment that does not accord with the CUI Specified authority. In such cases, agencies must apply the CUI Specified standards and may apply limited dissemination controls listed in the CUI Registry to ensure they treat the information in accord with the CUI Specified authority."
+              },
+              {
+                "I": {
+                  "#text": "Protecting CUI under the control of an authorized holder."
+                },
+                "#text": "(c)"
+              },
+              {
+                "#text": "(1) Establish controlled environments in which to protect CUI from unauthorized access or disclosure and make use of those controlled environments;"
+              },
+              {
+                "#text": "(2) Reasonably ensure that unauthorized individuals cannot access or observe CUI, or overhear conversations discussing CUI;"
+              },
+              {
+                "#text": "(3) Keep CUI under the authorized holder's direct control or protect it with at least one physical barrier, and reasonably ensure that the authorized holder or the physical barrier protects the CUI from unauthorized access or observation when outside a controlled environment; and"
+              },
+              {
+                "#text": "(4) Protect the confidentiality of CUI that agencies or authorized holders process, store, or transmit on Federal information systems in accordance with the applicable security requirements and controls established in FIPS PUB 199, FIPS PUB 200, and NIST SP 800-53, (incorporated by reference, see \u00a7 2002.2), and paragraph (g) of this section."
+              },
+              {
+                "I": {
+                  "#text": "Protecting CUI when shipping or mailing."
+                },
+                "#text": "(d)"
+              },
+              {
+                "#text": "(1) May use the United States Postal Service or any commercial delivery service when they need to transport or deliver CUI to another entity;"
+              },
+              {
+                "#text": "(2) Should use in-transit automated tracking and accountability tools when they send CUI;"
+              },
+              {
+                "#text": "(3) May use interoffice or interagency mail systems to transport CUI; and"
+              },
+              {
+                "#text": "(4) Must mark packages that contain CUI according to marking requirements contained in this part and in guidance published by the CUI EA. See \u00a7 2002.20 for more guidance on marking requirements."
+              },
+              {
+                "I": {
+                  "#text": "Reproducing CUI."
+                },
+                "#text": "(e)"
+              },
+              {
+                "I": {
+                  "#text": "e.g.,"
+                },
+                "#text": "(1) May reproduce ("
+              },
+              {
+                "#text": "(2) Must ensure, when reproducing CUI documents on equipment such as printers, copiers, scanners, or fax machines, that the equipment does not retain data or the agency must otherwise sanitize it in accordance with NIST SP 800-53 (incorporated by reference, see \u00a7 2002.2)."
+              },
+              {
+                "I": {
+                  "#text": "Destroying CUI."
+                },
+                "#text": "(f)"
+              },
+              {
+                "#text": "(i) The agency no longer needs the information; and"
+              },
+              {
+                "#text": "(ii) Records disposition schedules published or approved by NARA allow."
+              },
+              {
+                "#text": "(2) When destroying CUI, including in electronic form, agencies must do so in a manner that makes it unreadable, indecipherable, and irrecoverable. Agencies must use any destruction method specifically required by law, regulation, or Government-wide policy for that CUI. If the authority does not specify a destruction method, agencies must use one of the following methods:"
+              },
+              {
+                "#text": "(i) Guidance for destruction in NIST SP 800-53, Security and Privacy Controls for Federal Information Systems and Organizations, and NIST SP 800-88, Guidelines for Media Sanitization (incorporated by reference, see \u00a7 2002.2); or"
+              },
+              {
+                "#text": "(ii) Any method of destruction approved for Classified National Security Information, as delineated in 32 CFR 2001.47, Destruction, or any implementing or successor guidance."
+              },
+              {
+                "I": {
+                  "#text": "Information systems that process, store, or transmit CUI."
+                },
+                "#text": "(g)"
+              },
+              {
+                "#text": "(h) Information systems that process, store, or transmit CUI are of two different types:"
+              },
+              {
+                "#text": "(1) A Federal information system is an information system used or operated by an agency or by a contractor of an agency or other organization on behalf of an agency. An information system operated on behalf of an agency provides information processing services to the agency that the Government might otherwise perform itself but has decided to outsource. This includes systems operated exclusively for Government use and systems operated for multiple users (multiple Federal agencies or Government and private sector users). Information systems that a non-executive branch entity operates on behalf of an agency are subject to the requirements of this part as though they are the agency's systems, and agencies may require these systems to meet additional requirements the agency sets for its own internal systems."
+              },
+              {
+                "#text": "(2) A non-Federal information system is any information system that does not meet the criteria for a Federal information system. Agencies may not treat non-Federal information systems as though they are agency systems, so agencies cannot require that non-executive branch entities protect these systems in the same manner that the agencies might protect their own information systems. When a non-executive branch entity receives Federal information only incidental to providing a service or product to the Government other than processing services, its information systems are not considered Federal information systems. NIST SP 800-171 (incorporated by reference, see \u00a7 2002.2) defines the requirements necessary to protect CUI Basic on non-Federal information systems in accordance with the requirements of this part. Agencies must use NIST SP 800-171 when establishing security requirements to protect CUI's confidentiality on non-Federal information systems (unless the authorizing law, regulation, or Government-wide policy listed in the CUI Registry for the CUI category or subcategory of the information involved prescribes specific safeguarding requirements for protecting the information's confidentiality, or unless an agreement establishes requirements to protect CUI Basic at higher than moderate confidentiality)."
+              }
+            ]
+          },
+          {
+            "@N": "2002.16",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2002.16\",\"citation\":\"32 CFR 2002.16\"}",
+            "HEAD": {
+              "#text": "\u00a7 2002.16 Accessing and disseminating."
+            },
+            "P": [
+              {
+                "I": [
+                  {
+                    "#text": "General policy"
+                  },
+                  {
+                    "#text": "Access."
+                  }
+                ],
+                "#text": "(a)"
+              },
+              {
+                "#text": "(i) Abides by the laws, regulations, or Government-wide policies that established the CUI category or subcategory;"
+              },
+              {
+                "#text": "(ii) Furthers a lawful Government purpose;"
+              },
+              {
+                "#text": "(iii) Is not restricted by an authorized limited dissemination control established by the CUI EA; and,"
+              },
+              {
+                "#text": "(iv) Is not otherwise prohibited by law."
+              },
+              {
+                "I": {
+                  "#text": "Dissemination controls."
+                },
+                "#text": "(2)"
+              },
+              {
+                "#text": "(ii) Agencies may not impose controls that unlawfully or improperly restrict access to CUI."
+              },
+              {
+                "I": {
+                  "#text": "Marking."
+                },
+                "#text": "(3)"
+              },
+              {
+                "I": {
+                  "#text": "Reasonable expectation."
+                },
+                "#text": "(4)"
+              },
+              {
+                "I": {
+                  "#text": "Agreements."
+                },
+                "#text": "(5)"
+              },
+              {
+                "I": {
+                  "#text": "Information-sharing agreements."
+                },
+                "#text": "(i)"
+              },
+              {
+                "I": {
+                  "#text": "Sharing CUI without a formal agreement."
+                },
+                "#text": "(ii)"
+              },
+              {
+                "I": [
+                  {
+                    "#text": "Foreign entity sharing."
+                  },
+                  {
+                    "#text": "e.g.,"
+                  }
+                ],
+                "#text": "(iii)"
+              },
+              {
+                "I": {
+                  "#text": "Pre-existing agreements."
+                },
+                "#text": "(iv)"
+              },
+              {
+                "I": {
+                  "#text": "Agreement content."
+                },
+                "#text": "(6)"
+              },
+              {
+                "#text": "(i) Non-executive branch entities must handle CUI in accordance with the Order, this part, and the CUI Registry;"
+              },
+              {
+                "#text": "(ii) Misuse of CUI is subject to penalties established in applicable laws, regulations, or Government-wide policies; and"
+              },
+              {
+                "#text": "(iii) The non-executive branch entity must report any non-compliance with handling requirements to the disseminating agency using methods approved by that agency's SAO. When the disseminating agency is not the designating agency, the disseminating agency must notify the designating agency."
+              },
+              {
+                "I": {
+                  "#text": "Exceptions to agreements."
+                },
+                "#text": "(7)"
+              },
+              {
+                "#text": "(i) Congress, including any committee, subcommittee, joint committee, joint subcommittee, or office thereof;"
+              },
+              {
+                "#text": "(ii) A court of competent jurisdiction, or any individual or entity when directed by an order of a court of competent jurisdiction or a Federal administrative law judge (ALJ) appointed under 5 U.S.C. 3501;"
+              },
+              {
+                "#text": "(iii) The Comptroller General, in the course of performing duties of the Government Accountability Office; or"
+              },
+              {
+                "#text": "(iv) Individuals or entities, when the agency releases information to them pursuant to a FOIA or Privacy Act request."
+              },
+              {
+                "I": [
+                  {
+                    "#text": "Controls on accessing and disseminating CUI"
+                  },
+                  {
+                    "#text": "CUI Basic."
+                  }
+                ],
+                "#text": "(b)"
+              },
+              {
+                "I": {
+                  "#text": "CUI Specified."
+                },
+                "#text": "(2)"
+              },
+              {
+                "#text": "(i) The CUI Registry annotates CUI that requires or permits Specified controls based on law, regulation, and Government-wide policy."
+              },
+              {
+                "#text": "(ii) In the absence of specific dissemination restrictions in the authorizing law, regulation, or Government-wide policy, agencies may disseminate CUI Specified as they would CUI Basic."
+              },
+              {
+                "I": {
+                  "#text": "Receipt of CUI."
+                },
+                "#text": "(3)"
+              },
+              {
+                "I": {
+                  "#text": "Limited dissemination."
+                },
+                "#text": "(4)"
+              },
+              {
+                "#text": "(ii) Using limited dissemination controls to unnecessarily restrict access to CUI is contrary to the goals of the CUI Program. Agencies may therefore use these controls only when it furthers a lawful Government purpose, or laws, regulations, or Government-wide policies require or permit an agency to do so. If an authorized holder has significant doubt about whether it is appropriate to use a limited dissemination control, the authorized holder should consult with and follow the designating agency's policy. If, after consulting the policy, significant doubt still remains, the authorized holder should not apply the limited dissemination control."
+              },
+              {
+                "#text": "(iii) Only the designating agency may apply limited dissemination controls to CUI. Other entities that receive CUI and seek to apply additional controls must request permission to do so from the designating agency."
+              },
+              {
+                "#text": "(iv) Authorized holders may apply limited dissemination controls to any CUI for which they are required or permitted to restrict access by or to certain entities."
+              },
+              {
+                "#text": "(v) Designating entities may combine approved limited dissemination controls listed in the CUI Registry to accommodate necessary practices."
+              },
+              {
+                "I": {
+                  "#text": "Methods of disseminating CUI."
+                },
+                "#text": "(c)"
+              },
+              {
+                "I": {
+                  "#text": "e.g.,"
+                },
+                "#text": "(2) To disseminate CUI using systems or components that are subject to NIST guidelines and publications ("
+              }
+            ]
+          },
+          {
+            "@N": "2002.18",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2002.18\",\"citation\":\"32 CFR 2002.18\"}",
+            "HEAD": {
+              "#text": "\u00a7 2002.18 Decontrolling."
+            },
+            "P": [
+              {
+                "#text": "(a) Agencies should decontrol as soon as practicable any CUI designated by their agency that no longer requires safeguarding or dissemination controls, unless doing so conflicts with the governing law, regulation, or Government-wide policy."
+              },
+              {
+                "#text": "(b) Agencies may decontrol CUI automatically upon the occurrence of one of the conditions below, or through an affirmative decision by the designating agency:"
+              },
+              {
+                "#text": "(1) When laws, regulations or Government-wide policies no longer require its control as CUI and the authorized holder has the appropriate authority under the authorizing law, regulation, or Government-wide policy;"
+              },
+              {
+                "#text": "(2) When the designating agency decides to release it to the public by making an affirmative, proactive disclosure;"
+              },
+              {
+                "#text": "(3) When the agency discloses it in accordance with an applicable information access statute, such as the FOIA, or the Privacy Act (when legally permissible), if the agency incorporates such disclosures into its public release processes; or"
+              },
+              {
+                "#text": "(4) When a pre-determined event or date occurs, as described in \u00a7 2002.20(g), unless law, regulation, or Government-wide policy requires coordination first."
+              },
+              {
+                "#text": "(c) The designating agency may also decontrol CUI:"
+              },
+              {
+                "#text": "(1) In response to a request by an authorized holder to decontrol it; or"
+              },
+              {
+                "#text": "(2) Concurrently with any declassification action under Executive Order 13526 or any predecessor or successor order, as long as the information also appropriately qualifies for decontrol as CUI."
+              },
+              {
+                "#text": "(d) An agency may designate in its CUI policies which agency personnel it authorizes to decontrol CUI, consistent with law, regulation, and Government-wide policy."
+              },
+              {
+                "#text": "(e) Decontrolling CUI relieves authorized holders from requirements to handle the information under the CUI Program, but does not constitute authorization for public release."
+              },
+              {
+                "#text": "(f) Authorized holders must clearly indicate that CUI is no longer controlled when restating, paraphrasing, re-using, releasing to the public, or donating it to a private institution. Otherwise, authorized holders do not have to mark, review, or take other actions to indicate the CUI is no longer controlled."
+              },
+              {
+                "#text": "(1) Agency policy may allow authorized holders to remove or strike through only those CUI markings on the first or cover page of the decontrolled CUI and markings on the first page of any attachments that contain CUI."
+              },
+              {
+                "#text": "(2) If an authorized holder uses the decontrolled CUI in a newly created document, the authorized holder must remove all CUI markings for the decontrolled information."
+              },
+              {
+                "#text": "(g) Once decontrolled, any public release of information that was formerly CUI must be in accordance with applicable law and agency policies on the public release of information."
+              },
+              {
+                "#text": "(h) Authorized holders may request that the designating agency decontrol certain CUI."
+              },
+              {
+                "#text": "(i) If an authorized holder publicly releases CUI in accordance with the designating agency's authorized procedures, the release constitutes decontrol of the information."
+              },
+              {
+                "#text": "(j) Unauthorized disclosure of CUI does not constitute decontrol."
+              },
+              {
+                "#text": "(k) Agencies must not decontrol CUI in an attempt to conceal, or to otherwise circumvent accountability for, an identified unauthorized disclosure."
+              },
+              {
+                "#text": "(l) When laws, regulations, or Government-wide policies require specific decontrol procedures, authorized holders must follow such requirements."
+              },
+              {
+                "#text": "(m) The Archivist of the United States may decontrol records transferred to the National Archives in accordance with \u00a7 2002.34, absent a specific agreement otherwise with the designating agency. The Archivist decontrols records to facilitate public access pursuant to 44 U.S.C. 2108 and NARA's regulations at 36 CFR parts 1235, 1250, and 1256."
+              }
+            ]
+          },
+          {
+            "@N": "2002.20",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2002.20\",\"citation\":\"32 CFR 2002.20\"}",
+            "HEAD": {
+              "#text": "\u00a7 2002.20 Marking."
+            },
+            "P": [
+              {
+                "I": {
+                  "#text": "General marking policy."
+                },
+                "#text": "(a)"
+              },
+              {
+                "#text": "(i) Discontinue all use of legacy or other markings not permitted by this part or included in the CUI Registry; and"
+              },
+              {
+                "#text": "(ii) Uniformly and conspicuously apply CUI markings to all CUI exclusively in accordance with the part and the CUI Registry, unless this part or the CUI EA otherwise specifically permits. See paragraph (a)(6) of this section and \u00a7\u00a7 2002.38, Waivers of CUI requirements, and 2002.36, Legacy materials, for more information."
+              },
+              {
+                "#text": "(2) Agencies may not modify CUI Program markings or deviate from the method of use prescribed by the CUI EA (in this part and the CUI Registry) in an effort to accommodate existing agency marking practices, except in circumstances approved by the CUI EA. The CUI Program prohibits using markings or practices not included in this part or the CUI Registry. If legacy markings remain on information, the legacy markings are void and no longer indicate that the information is protected or that it is or qualifies as CUI."
+              },
+              {
+                "#text": "(3) An agency receiving an incorrectly marked document should notify either the disseminating entity or the designating agency, and request a properly marked document."
+              },
+              {
+                "#text": "(4) The designating agency determines that the information qualifies for CUI status and applies the appropriate CUI marking when it designates that information as CUI."
+              },
+              {
+                "#text": "(5) If an agency has information within its control that qualifies as CUI but has not been previously marked as CUI for any reason (for example, pursuant to an agency internal marking waiver as referenced in \u00a7 2002.38 (a)), the agency must mark it as CUI prior to disseminating it."
+              },
+              {
+                "#text": "(6) Agencies must not mark information as CUI to conceal illegality, negligence, ineptitude, or other disreputable circumstances embarrassing to any person, any agency, the Federal Government, or any of their partners, or for any purpose other than to adhere to the law, regulation, or Government-wide policy authorizing the control."
+              },
+              {
+                "#text": "(7) The lack of a CUI marking on information that qualifies as CUI does not exempt the authorized holder from abiding by applicable handling requirements as described in the Order, this part, and the CUI Registry."
+              },
+              {
+                "I": {
+                  "#text": "e.g.,"
+                },
+                "#text": "(8) When it is impractical for an agency to individually mark CUI due to quantity or nature of the information, or when an agency has issued a limited CUI marking waiver, authorized holders must make recipients aware of the information's CUI status using an alternate marking method that is readily apparent (for example, through user access agreements, a computer system digital splash screen ("
+              },
+              {
+                "I": {
+                  "#text": "The CUI banner marking."
+                },
+                "#text": "(b)"
+              },
+              {
+                "I": {
+                  "#text": "The CUI control marking (mandatory)."
+                },
+                "#text": "(1)"
+              },
+              {
+                "#text": "(ii) The CUI Registry contains additional, specific guidance and instructions for using the CUI control marking."
+              },
+              {
+                "#text": "(iii) Authorized holders who designate CUI may not use alternative markings to identify or mark items as CUI."
+              },
+              {
+                "I": {
+                  "#text": "CUI category or subcategory markings (mandatory for CUI Specified)."
+                },
+                "#text": "(2)"
+              },
+              {
+                "#text": "(ii) Although the CUI Program does not require agencies to use category or subcategory markings on CUI Basic, an agency's CUI SAO may establish agency policy that mandates use of CUI category or subcategory markings on CUI Basic."
+              },
+              {
+                "#text": "(iii) However, authorized holders must include in the CUI banner marking all CUI Specified category or subcategory markings that pertain to the information in the document. If law, regulation, or Government-wide policy requires specific marking, disseminating, informing, distribution limitation, or warning statements, agencies must use those indicators as those authorities require or permit. However, agencies must not include these additional indicators in the CUI banner marking or CUI portion markings."
+              },
+              {
+                "#text": "(iv) The CUI Registry contains additional, specific guidance and instructions for using CUI category and subcategory markings."
+              },
+              {
+                "I": {
+                  "#text": "Limited dissemination control markings."
+                },
+                "#text": "(3)"
+              },
+              {
+                "#text": "(ii) Agency policy should include specific criteria establishing which authorized holders may apply limited dissemination controls and their corresponding markings, and when. Such agency policy must align with the requirements in \u00a7 2002.16(b)(4)."
+              },
+              {
+                "#text": "(iii) The CUI Registry contains additional, specific guidance and instructions for using limited dissemination control markings."
+              },
+              {
+                "I": [
+                  {
+                    "#text": "Using the CUI banner marking."
+                  },
+                  {
+                    "#text": "i.e.,"
+                  }
+                ],
+                "#text": "(c)"
+              },
+              {
+                "#text": "(2) The CUI Registry contains additional, specific guidelines and instructions for using the CUI banner marking."
+              },
+              {
+                "I": {
+                  "#text": "CUI designation indicator (mandatory)."
+                },
+                "#text": "(d)"
+              },
+              {
+                "#text": "(2) The designation indicator must be readily apparent to authorized holders and may appear only on the first page or cover. The CUI Registry contains additional, specific guidance and requirements for using CUI designation indicators."
+              },
+              {
+                "I": {
+                  "#text": "CUI decontrolling indicators."
+                },
+                "#text": "(e)"
+              },
+              {
+                "#text": "(2) Authorized holders may consider specific items of CUI as decontrolled as of the date indicated, requiring no further review by, or communication with, the designator."
+              },
+              {
+                "#text": "(3) If using a specific event after which the CUI is considered decontrolled:"
+              },
+              {
+                "I": {
+                  "#text": "e.g.,"
+                },
+                "#text": "(i) The event must be foreseeable and verifiable by any authorized holder ("
+              },
+              {
+                "#text": "(ii) The designator should include point of contact and preferred method of contact information in the decontrol indicator when using this method, to allow authorized holders to verify that a specified event has occurred."
+              },
+              {
+                "#text": "(4) The CUI Registry contains additional, specific guidance and instructions for using limited dissemination control markings."
+              },
+              {
+                "I": {
+                  "#text": "Portion marking CUI."
+                },
+                "#text": "(f)"
+              },
+              {
+                "#text": "(2) Authorized holders who designate CUI may mark CUI only with portion markings approved by the CUI EA and listed in the CUI Registry."
+              },
+              {
+                "#text": "(3) CUI portion markings consist of the following elements:"
+              },
+              {
+                "#text": "(i) The CUI control marking, which must be the acronym \u201cCUI\u201d;"
+              },
+              {
+                "#text": "(ii) CUI category/subcategory portion markings (if required or permitted); and"
+              },
+              {
+                "#text": "(iii) CUI limited dissemination control portion markings (if required)."
+              },
+              {
+                "#text": "(4) When using portion markings:"
+              },
+              {
+                "#text": "(i) CUI category and subcategory portion markings are optional for CUI Basic. Agencies may manage their use by means of agency policy."
+              },
+              {
+                "#text": "(ii) Authorized holders permitted to designate CUI must portion mark both CUI and uncontrolled unclassified portions."
+              },
+              {
+                "#text": "(5) In cases where portions consist of several segments, such as paragraphs, sub-paragraphs, bullets, and sub-bullets, and the control level is the same throughout, designators of CUI may place a single portion marking at the beginning of the primary paragraph or bullet. However, if the portion includes different CUI categories or subcategories, or if the portion includes some CUI and some uncontrolled unclassified information, authorized holders should portion mark all segments separately to avoid improper control of any one segment."
+              },
+              {
+                "#text": "(6) Each portion must reflect the control level of only that individual portion. If the information contained in a sub-paragraph or sub-bullet is a different CUI category or subcategory from its parent paragraph or parent bullet, this does not make the parent paragraph or parent bullet controlled at that same level."
+              },
+              {
+                "#text": "(7) The CUI Registry contains additional, specific guidance and instructions for using CUI portion markings and uncontrolled unclassified portion markings."
+              },
+              {
+                "I": {
+                  "#text": "Commingling CUI markings with Classified National Security Information (CNSI)."
+                },
+                "#text": "(g)"
+              },
+              {
+                "#text": "(1) Portion mark all CUI to ensure that authorized holders can distinguish CUI portions from portions containing classified and uncontrolled unclassified information;"
+              },
+              {
+                "#text": "(2) Include the CUI control marking, CUI Specified category and subcategory markings, and limited dissemination control markings in an overall banner marking; and"
+              },
+              {
+                "#text": "(3) Follow the requirements of the Order and this part, and instructions in the CUI Registry on marking CUI when commingled with CNSI."
+              },
+              {
+                "I": {
+                  "#text": "Commingling restricted data (RD) and formerly restricted data (FRD) with CUI."
+                },
+                "#text": "(h)"
+              },
+              {
+                "#text": "(2) Follow the requirements of 10 CFR part 1045 when extracting an RD or FRD portion for use in a new document."
+              },
+              {
+                "#text": "(3) Follow the requirements of the Order and this part, and instructions in the CUI Registry if extracting a CUI portion for use in a new document."
+              },
+              {
+                "#text": "(4) The lack of declassification instructions for RD or FRD portions does not eliminate the requirement to process commingled documents for declassification in accordance with the Atomic Energy Act, or 10 CFR part 1045."
+              },
+              {
+                "I": {
+                  "#text": "Packages and parcels containing CUI."
+                },
+                "#text": "(i)"
+              },
+              {
+                "#text": "(2) Do not put CUI markings on the outside of an envelope or package, or otherwise indicate on the outside that the item contains CUI."
+              },
+              {
+                "I": {
+                  "#text": "Transmittal document marking requirements."
+                },
+                "#text": "(j)"
+              },
+              {
+                "#text": "(2) The transmittal document must also include conspicuously on its face the following or similar instructions, as appropriate:"
+              },
+              {
+                "#text": "(i) \u201cWhen enclosure is removed, this document is Uncontrolled Unclassified Information\u201d; or"
+              },
+              {
+                "#text": "(ii) \u201cWhen enclosure is removed, this document is (control level); upon removal, this document does not contain CUI.\u201d"
+              },
+              {
+                "I": {
+                  "#text": "Working papers."
+                },
+                "#text": "(k)"
+              },
+              {
+                "I": [
+                  {
+                    "#text": "Using supplemental administrative markings with CUI."
+                  },
+                  {
+                    "#text": "e.g."
+                  }
+                ],
+                "#text": "(l)"
+              },
+              {
+                "#text": "(2) Agency heads may not authorize the use of supplemental administrative markings to establish safeguarding requirements or disseminating restrictions, or to designate the information as CUI. However, agencies may use these markings to inform recipients of the non-final status of documents under development to avoid confusion and maintain the integrity of an agency's decision-making process."
+              },
+              {
+                "#text": "(3) Agencies must detail requirements for using supplemental administrative markings with CUI in agency policy that is available to anyone who may come into possession of CUI with these markings."
+              },
+              {
+                "#text": "(4) Authorized holders must not incorporate or include supplemental administrative markings in the CUI marking scheme detailed in this part and the CUI Registry."
+              },
+              {
+                "#text": "(5) Supplemental administrative markings must not duplicate any CUI marking described in this part or the CUI Registry."
+              },
+              {
+                "I": {
+                  "#text": "Unmarked CUI."
+                },
+                "#text": "(m)"
+              }
+            ]
+          },
+          {
+            "@N": "2002.22",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2002.22\",\"citation\":\"32 CFR 2002.22\"}",
+            "HEAD": {
+              "#text": "\u00a7 2002.22 Limitations on applicability of agency CUI policies."
+            },
+            "P": [
+              {
+                "#text": "(a) Agency CUI policies do not apply to entities outside that agency unless a law, regulation, or Government-wide policy requires or permits the controls contained in the agency policy to do so, and the CUI Registry lists that law, regulation, or Government-wide policy as a CUI authority."
+              },
+              {
+                "#text": "(b) Agencies may not include additional requirements or restrictions on handling CUI other than those permitted in the Order, this part, or the CUI Registry when entering into agreements."
+              }
+            ]
+          },
+          {
+            "@N": "2002.24",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2002.24\",\"citation\":\"32 CFR 2002.24\"}",
+            "HEAD": {
+              "#text": "\u00a7 2002.24 Agency self-inspection program."
+            },
+            "P": [
+              {
+                "#text": "(a) The agency must establish a self-inspection program pursuant to the requirement in \u00a7 2002.8(b)(4)."
+              },
+              {
+                "#text": "(b) The self-inspection program must include:"
+              },
+              {
+                "#text": "(1) At least annual review and assessment of the agency's CUI program. The agency head or CUI SAO should determine any greater frequency based on program needs and the degree to which the agency engages in designating CUI;"
+              },
+              {
+                "#text": "(2) Self-inspection methods, reviews, and assessments that serve to evaluate program effectiveness, measure the level of compliance, and monitor the progress of CUI implementation;"
+              },
+              {
+                "#text": "(3) Formats for documenting self-inspections and recording findings when not prescribed by the CUI EA;"
+              },
+              {
+                "#text": "(4) Procedures by which to integrate lessons learned and best practices arising from reviews and assessments into operational policies, procedures, and training;"
+              },
+              {
+                "#text": "(5) A process for resolving deficiencies and taking corrective actions; and"
+              },
+              {
+                "#text": "(6) Analysis and conclusions from the self-inspection program, documented on an annual basis and as requested by the CUI EA."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "@N": "C",
+        "@TYPE": "SUBPART",
+        "@hierarchy_metadata": "{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-32/part-2002/subpart-C&quot;,&quot;citation&quot;:&quot;32 CFR Part 2002 Subpart C&quot;}",
+        "HEAD": {
+          "#text": "Subpart C\u2014CUI Program Management"
+        },
+        "DIV8": [
+          {
+            "@N": "2002.30",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2002.30\",\"citation\":\"32 CFR 2002.30\"}",
+            "HEAD": {
+              "#text": "\u00a7 2002.30 Education and training."
+            },
+            "P": [
+              {
+                "#text": "(a) The CUI SAO must establish and implement an agency training policy. At a minimum, the training policy must address the means, methods, and frequency of agency CUI training."
+              },
+              {
+                "#text": "(b) Agency training policy must ensure that personnel who have access to CUI receive training on designating CUI, relevant CUI categories and subcategories, the CUI Registry, associated markings, and applicable safeguarding, disseminating, and decontrolling policies and procedures."
+              },
+              {
+                "#text": "(c) Agencies must train employees on these matters when the employees first begin working for the agency and at least once every two years thereafter."
+              },
+              {
+                "#text": "(d) The CUI EA reviews agency training materials to ensure consistency and compliance with the Order, this part, and the CUI Registry."
+              }
+            ]
+          },
+          {
+            "@N": "2002.32",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2002.32\",\"citation\":\"32 CFR 2002.32\"}",
+            "HEAD": {
+              "#text": "\u00a7 2002.32 CUI cover sheets."
+            },
+            "P": [
+              {
+                "#text": "(a) Agencies may use cover sheets for CUI. If an agency chooses to use cover sheets, it must use CUI EA-approved cover sheets, which agencies can find on the CUI Registry."
+              },
+              {
+                "#text": "(b) Agencies may use cover sheets to identify CUI, alert observers that CUI is present from a distance, and serve as a shield to protect the attached CUI from inadvertent disclosure."
+              }
+            ]
+          },
+          {
+            "@N": "2002.34",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2002.34\",\"citation\":\"32 CFR 2002.34\"}",
+            "HEAD": {
+              "#text": "\u00a7 2002.34 Transferring records."
+            },
+            "P": [
+              {
+                "#text": "(a) When feasible, agencies must decontrol records containing CUI prior to transferring them to NARA."
+              },
+              {
+                "#text": "(b) When an agency cannot decontrol records before transferring them to NARA, the agency must:"
+              },
+              {
+                "#text": "(1) Indicate on a Transfer Request (TR) in NARA's Electronic Records Archives (ERA) or on an SF 258 paper transfer form, that the records should continue to be controlled as CUI (subject to NARA's regulations on transfer, public availability, and access; see 36 CFR parts 1235, 1250, and 1256); and"
+              },
+              {
+                "#text": "(2) For hard copy transfer, do not place a CUI marking on the outside of the container."
+              },
+              {
+                "#text": "(c) If the agency does not indicate the status as CUI on the TR or SF 258, NARA may assume the agency decontrolled the information prior to transfer, regardless of any CUI markings on the actual records."
+              }
+            ]
+          },
+          {
+            "@N": "2002.36",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2002.36\",\"citation\":\"32 CFR 2002.36\"}",
+            "HEAD": {
+              "#text": "\u00a7 2002.36 Legacy materials."
+            },
+            "P": [
+              {
+                "#text": "(a) Agencies must review documents created prior to November 14, 2016 and re-mark any that contain information that qualifies as CUI in accordance with the Order, this part, and the CUI Registry. When agencies do not individually re-mark legacy material that qualifies as CUI, agencies must use an alternate permitted marking method (see \u00a7 2002.20(a)(8))."
+              },
+              {
+                "#text": "(b) When the CUI SAO deems re-marking legacy documents to be excessively burdensome, the CUI SAO may grant a legacy material marking waiver under \u00a7 2002.38(b)."
+              },
+              {
+                "#text": "(c) When the agency re-uses any information from legacy documents that qualifies as CUI, whether the documents have obsolete control markings or not, the agency must designate the newly-created document (or other re-use) as CUI and mark it accordingly."
+              }
+            ]
+          },
+          {
+            "@N": "2002.38",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2002.38\",\"citation\":\"32 CFR 2002.38\"}",
+            "HEAD": {
+              "#text": "\u00a7 2002.38 Waivers of CUI requirements."
+            },
+            "P": [
+              {
+                "I": {
+                  "#text": "Limited CUI marking waivers within the agency."
+                },
+                "#text": "(a)"
+              },
+              {
+                "I": {
+                  "#text": "Limited legacy material marking waivers within the agency."
+                },
+                "#text": "(b)"
+              },
+              {
+                "#text": "(2) When an authorized holder re-uses any legacy information or information derived from legacy documents that qualifies as CUI, they must remove or redact legacy markings and designate or re-mark the information as CUI, even if the information is under a legacy material marking waiver prior to re-use."
+              },
+              {
+                "I": {
+                  "#text": "Exigent circumstances waivers."
+                },
+                "#text": "(c)"
+              },
+              {
+                "#text": "(2) Exigent circumstances waivers may apply when an agency shares the information with other agencies or non-Federal entities. In such cases, the authorized holders must make recipients aware of the CUI status of any disseminated information."
+              },
+              {
+                "I": {
+                  "#text": "For all waivers."
+                },
+                "#text": "(d)"
+              },
+              {
+                "#text": "(2) The CUI SAO must detail in each waiver the alternate protection methods the agency will employ to ensure protection of CUI subject to the waiver;"
+              },
+              {
+                "#text": "(3) All marking waivers apply to CUI subject to the waiver only while that agency continues to possess that CUI. No marking waiver may accompany CUI when an authorized holder disseminates it outside that agency;"
+              },
+              {
+                "#text": "(4) Authorized holders must uniformly and conspicuously apply CUI markings to all CUI prior to disseminating it outside the agency unless otherwise specifically permitted by the CUI EA; and"
+              },
+              {
+                "#text": "(5) When the circumstances requiring the waiver end, the CUI SAO must reinstitute the requirements for all CUI subject to the waiver without delay."
+              },
+              {
+                "#text": "(e) The CUI SAO must:"
+              },
+              {
+                "#text": "(1) Retain a record of each waiver;"
+              },
+              {
+                "#text": "(2) Include a description of all current waivers and waivers issued during the preceding year in the annual report to the CUI EA, along with the rationale for each waiver and the alternate steps the agency takes to ensure sufficient protection of CUI; and"
+              },
+              {
+                "#text": "(3) Notify authorized recipients and the public of these waivers."
+              }
+            ]
+          },
+          {
+            "@N": "2002.44",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2002.44\",\"citation\":\"32 CFR 2002.44\"}",
+            "HEAD": {
+              "#text": "\u00a7 2002.44 CUI and disclosure statutes."
+            },
+            "P": [
+              {
+                "I": {
+                  "#text": "General policy."
+                },
+                "#text": "(a)"
+              },
+              {
+                "I": {
+                  "#text": "CUI and the Freedom of Information Act (FOIA)."
+                },
+                "#text": "(b)"
+              },
+              {
+                "I": {
+                  "#text": "CUI and the Whistleblower Protection Act."
+                },
+                "#text": "(c)"
+              }
+            ]
+          },
+          {
+            "@N": "2002.46",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2002.46\",\"citation\":\"32 CFR 2002.46\"}",
+            "HEAD": {
+              "#text": "\u00a7 2002.46 CUI and the Privacy Act."
+            },
+            "P": {
+              "#text": "The fact that records are subject to the Privacy Act of 1974 does not mean that agencies must mark them as CUI. Consult agency policies or guidance to determine which records may be subject to the Privacy Act; consult the CUI Registry to determine which privacy information must be marked as CUI. Information contained in Privacy Act systems of records may also be subject to controls under other CUI categories or subcategories and the agency may need to mark that information as CUI for that reason. In addition, when determining whether the agency must protect certain information under the Privacy Act, or whether the Privacy Act allows the agency to release the information to an individual, the agency must base its decision on the content of the information and the Privacy Act's criteria, regardless of whether an agency designates or marks the information as CUI."
+            }
+          },
+          {
+            "@N": "2002.48",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2002.48\",\"citation\":\"32 CFR 2002.48\"}",
+            "HEAD": {
+              "#text": "\u00a7 2002.48 CUI and the Administrative Procedure Act (APA)."
+            },
+            "P": {
+              "#text": "Nothing in the regulations in this part alters the Administrative Procedure Act (APA) or the powers of Federal administrative law judges (ALJs) appointed thereunder, including the power to determine confidentiality of information in proceedings over which they preside. Nor do the regulations in this part impose requirements concerning the manner in which ALJs designate, disseminate, control access to, decontrol, or mark such information, or make such determinations."
+            }
+          },
+          {
+            "@N": "2002.50",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2002.50\",\"citation\":\"32 CFR 2002.50\"}",
+            "HEAD": {
+              "#text": "\u00a7 2002.50 Challenges to designation of information as CUI."
+            },
+            "P": [
+              {
+                "#text": "(a) Authorized holders of CUI who, in good faith, believe that its designation as CUI is improper or incorrect, or who believe they have received unmarked CUI, should notify the disseminating agency of this belief. When the disseminating agency is not the designating agency, the disseminating agency must notify the designating agency."
+              },
+              {
+                "#text": "(b) If the information at issue is involved in Government litigation, or the challenge to its designation or marking as CUI arises as part of the litigation, the issue of whether the challenger may access the information will be addressed via the litigation process instead of by the agency CUI program. Challengers should nonetheless notify the agency of the issue through the agency process described below, and include its litigation connection."
+              },
+              {
+                "#text": "(c) CUI SAOs must create a process within their agency to accept and manage challenges to CUI status. At a minimum, this process must include a timely response to the challenger that:"
+              },
+              {
+                "#text": "(1) Acknowledges receipt of the challenge;"
+              },
+              {
+                "#text": "(2) States an expected timetable for response to the challenger;"
+              },
+              {
+                "#text": "(3) Provides an opportunity for the challenger to define a rationale for belief that the CUI in question is inappropriately designated;"
+              },
+              {
+                "#text": "(4) Gives contact information for the official making the agency's decision in this matter; and"
+              },
+              {
+                "#text": "(5) Ensures that challengers who are authorized holders have the option of bringing such challenges anonymously, and that challengers are not subject to retribution for bringing such challenges."
+              },
+              {
+                "#text": "(d) Until the challenge is resolved, authorized holders should continue to safeguard and disseminate the challenged CUI at the control level indicated in the markings."
+              },
+              {
+                "#text": "(e) If a challenging party disagrees with the response to a challenge, that party may use the Dispute Resolution procedures described in \u00a7 2002.52."
+              }
+            ]
+          },
+          {
+            "@N": "2002.52",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2002.52\",\"citation\":\"32 CFR 2002.52\"}",
+            "HEAD": {
+              "#text": "\u00a7 2002.52 Dispute resolution for agencies."
+            },
+            "P": [
+              {
+                "#text": "(a) When laws, regulations, or Government-wide policies governing the CUI involved in a dispute set out specific procedures, processes, and requirements for resolving disputes, agencies must follow those processes for that CUI. This includes submitting the dispute to someone other than the CUI EA for resolution if the authority so requires. If the CUI at issue is involved in litigation, the agency should refer the issue to the appropriate attorneys for resolution through the litigation process."
+              },
+              {
+                "#text": "(b) When laws, regulations, and Government-wide policies governing the CUI do not set out specific procedures, processes, or requirements for CUI dispute resolution (or the information is not involved in litigation), this part governs."
+              },
+              {
+                "#text": "(c) All parties to a dispute arising from implementing or interpreting the Order, this part, or the CUI Registry should make every effort to resolve the dispute expeditiously. Parties should address disputes within a reasonable, mutually acceptable time period, taking into consideration the parties' mission, sharing, and protection requirements."
+              },
+              {
+                "#text": "(d) If parties to a dispute cannot reach a mutually acceptable resolution, either party may refer the matter to the CUI EA."
+              },
+              {
+                "#text": "(e) The CUI EA acts as the impartial arbiter of the dispute and has the authority to render a decision on the dispute after consulting with all affected parties. If a party to the dispute is also a member of the Intelligence Community, the CUI EA must consult with the Office of the Director of National Intelligence when the CUI EA receives the dispute for resolution."
+              },
+              {
+                "#text": "(f) Until the dispute is resolved, authorized holders should continue to safeguard and disseminate any disputed CUI at the control level indicated in the markings, or as directed by the CUI EA if the information is unmarked."
+              },
+              {
+                "#text": "(g) Parties may appeal the CUI EA's decision through the Director of OMB to the President for resolution, pursuant to section 4(e) of the Order. If one of the parties to the dispute is the CUI EA and the parties cannot resolve the dispute under paragraph (c) of this section, the parties may likewise refer the matter to OMB for resolution."
+              }
+            ]
+          },
+          {
+            "@N": "2002.54",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2002.54\",\"citation\":\"32 CFR 2002.54\"}",
+            "HEAD": {
+              "#text": "\u00a7 2002.54 Misuse of CUI."
+            },
+            "P": [
+              {
+                "#text": "(a) The CUI SAO must establish agency processes and criteria for reporting and investigating misuse of CUI."
+              },
+              {
+                "#text": "(b) The CUI EA reports findings on any incident involving misuse of CUI to the offending agency's CUI SAO or CUI Program manager for action, as appropriate."
+              }
+            ]
+          },
+          {
+            "@N": "2002.56",
+            "@TYPE": "SECTION",
+            "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/section-2002.56\",\"citation\":\"32 CFR 2002.56\"}",
+            "HEAD": {
+              "#text": "\u00a7 2002.56 Sanctions for misuse of CUI."
+            },
+            "P": [
+              {
+                "#text": "(a) To the extent that agency heads are otherwise authorized to take administrative action against agency personnel who misuse CUI, agency CUI policy governing misuse should reflect that authority."
+              },
+              {
+                "#text": "(b) Where laws, regulations, or Government-wide policies governing certain categories or subcategories of CUI specifically establish sanctions, agencies must adhere to such sanctions."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "DIV9": {
+      "@N": "Appendix A to Part 2002",
+      "@TYPE": "APPENDIX",
+      "@hierarchy_metadata": "{\"path\":\"/on/_SUBSTITUTE_DATE_/title-32/part-2002/appendix-Appendix A to Part 2002\",\"citation\":\"Appendix A to Part 2002, Title 32\"}",
+      "HEAD": {
+        "#text": "Appendix A to Part 2002\u2014Acronyms"
+      },
+      "FP-1": [
+        {
+          "#text": "CNSI\u2014Classified National Security Information"
+        },
+        {
+          "#text": "Council or the Council\u2014The CUI Advisory Council"
+        },
+        {
+          "#text": "CUI\u2014Controlled unclassified information"
+        },
+        {
+          "#text": "EA\u2014The CUI Executive Agent (which is ISOO)"
+        },
+        {
+          "#text": "FOIA\u2014Freedom of Information Act"
+        },
+        {
+          "#text": "FRD\u2014Formerly Restricted Data"
+        },
+        {
+          "#text": "ISOO\u2014Information Security Oversight Office at the National Archives and Records Administration"
+        },
+        {
+          "#text": "NARA\u2014National Archives and Records Administration"
+        },
+        {
+          "#text": "OMB\u2014Office of Management and Budget within the Office of Information and Regulatory Affairs of the Executive Office of the President"
+        },
+        {
+          "#text": "PM\u2014the agency's CUI program manager"
+        },
+        {
+          "#text": "RD\u2014Restricted Data"
+        },
+        {
+          "#text": "SAO\u2014the senior agency official [for CUI]"
+        },
+        {
+          "#text": "TR\u2014Transfer Request in NARA's Electronic Records Archives (ERA)"
+        }
+      ]
+    }
+  }
+}
